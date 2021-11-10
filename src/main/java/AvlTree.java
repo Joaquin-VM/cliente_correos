@@ -493,20 +493,4 @@ public class AvlTree<AnyType extends Comparable<? super AnyType>> {
     return rotateWithRightChild(k1);
   }
 
-  public static void main(String[] args) {
-    AvlTree<Integer> avlTree = new AvlTree<>();
-    avlTree.insert(3);
-    avlTree.insert(5);
-    avlTree.insert(1);
-    avlTree.insert(2);
-    avlTree.insert(4);
-
-    try {
-      System.out.println(Arrays.toString(avlTree.inOrderNR(avlTree.getRoot()).toArray()));
-    } catch (Exception e) {
-      e.printStackTrace();
-    }
-
-  }
-
 }
