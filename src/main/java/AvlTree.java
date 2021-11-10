@@ -492,5 +492,4 @@ public class AvlTree<AnyType extends Comparable<? super AnyType>> {
     k1.right = rotateWithLeftChild(k1.right);
     return rotateWithRightChild(k1);
   }
-
 }
