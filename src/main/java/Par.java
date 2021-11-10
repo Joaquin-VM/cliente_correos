@@ -47,8 +47,24 @@ public class Par implements Comparable<Par> {
   }
 
   @Override
+  public String toString() {
+    return "Par: Key: " + key + ", Value: " + value;
+  }
+
+  @Override
   public int compareTo(Par par2) {
     return key.compareTo(par2.getKey());
+  }
+
+  @Override
+  public boolean equals(Object obj) {
+    Par par2 = (Par) obj;
+    return key.equals(par2.getKey());
+  }
+
+  @Override
+  public int hashCode() {
+    return key.hashCode();
   }
 
 }

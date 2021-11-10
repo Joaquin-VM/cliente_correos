@@ -1,3 +1,5 @@
+import java.util.Objects;
+
 /**
  * Clase con los datos de un email. Puede tener mas propiedades o metodos
  */
@@ -11,6 +13,10 @@ public class Email implements Comparable<Email> {
   private String content; // Contenido del mail.
 
   public Email() {
+  }
+
+  public Email(long id){
+    this.id = id;
   }
 
   public long getId() {
@@ -78,6 +84,17 @@ public class Email implements Comparable<Email> {
   @Override
   public int compareTo(Email m) {
     return Long.compare(id, m.id);
+  }
+
+  @Override
+  public boolean equals(Object o) {
+    Email email2 = (Email) o;
+    return id == email2.getId();
+  }
+
+  @Override
+  public int hashCode() {
+    return Objects.hash(id);
   }
 
 }

@@ -11,9 +11,9 @@ public class MailManager {
   //Estructuras.
   AvlTree<Par> arbolDeFechas = new AvlTree<>();
   AvlTree<Par> arbolDeRemitentes = new AvlTree<>();
-  HashMap<String, AvlTree<Email>> hashPorRemitentes = new HashMap<>();
-  HashMap<String, AvlTree<Email>> hashPorString = new HashMap<>();
-  HashMap<Long, Email> hashPorIds = new HashMap<>();
+  SeparateChainingHashTable<Par> hashPorRemitentes = new SeparateChainingHashTable<>();
+  SeparateChainingHashTable<Par> hashPorString = new SeparateChainingHashTable<>();
+  SeparateChainingHashTable<Email> hashPorIds = new SeparateChainingHashTable<>();
 
   /**
    * Lee y guarda en el gestor todos los mails de un archivo.
@@ -22,7 +22,14 @@ public class MailManager {
    */
   public void addMail(String nombreArchivo) throws Exception {
 
-    RandomAccessFile archivo = new RandomAccessFile(nombreArchivo + ".txt", "r");
+    RandomAccessFile archivo;
+
+    try {
+      archivo = new RandomAccessFile(nombreArchivo + ".txt", "r");
+    } catch (Exception e) {
+      throw new Exception("El archivo no se pudo abrir porque no existe o fallo.");
+    }
+
     String str;
 
     int i = 0;
@@ -35,18 +42,19 @@ public class MailManager {
       int posFinCampo = str.indexOf(":");
       String infoCampo = str.substring(posFinCampo + 1);
 
-      if (str.contains("date:")) {
+      if (str.startsWith("date:")) {
         System.out.println("\n***********************Mail " + (++i) + "***********************");
         email.setDate(infoCampo);
-      } else if (str.contains("from:")) {
+      } else if (str.startsWith("from:")) {
         email.setFrom(infoCampo);
-      } else if (str.contains("to:")) {
+      } else if (str.startsWith("to:")) {
         email.setTo(infoCampo);
-      } else if (str.contains("subject:")) {
+      } else if (str.startsWith("subject:")) {
         email.setSubject(infoCampo);
       } else if (str.trim().equals("-.-.-:-.-.-")) {
-        System.out.println(email.getDate());
+        System.out.println(email.getDate() + ". El email es de " + email.getFrom());
         addMail(email); //Agregamos el email.
+        System.out.println("YA FUE AGREGADO \n");
         email = new Email();
       } else {
         email.setContent(str);
@@ -67,7 +75,7 @@ public class MailManager {
     //Asignar id unico.
     m.setId(++id);
 
-    hashPorIds.put(m.getId(), m); //O(1)
+    hashPorIds.insert(m); //O(1)
     addArbolFechas(m); //O(log n)
     addArbolRemitentes(m); //O(log n)
     addTHashRemitentes(m); //O(1)
@@ -103,24 +111,24 @@ public class MailManager {
   }
 
   /**
-   * Agrega un mail al HashMap de remitentes.
+   * Agrega un mail al HashMap2 de remitentes.
    *
    * @param m mail a agregar
    */
   private void addTHashRemitentes(Email m) throws Exception {
     AvlTree<Email> arbolDeEmails;
-    if (hashPorRemitentes.exist(m.getFrom())) {
-      arbolDeEmails = hashPorRemitentes.get(m.getFrom());
+    if (hashPorRemitentes.contains(new Par(m.getFrom(), null))) {
+      arbolDeEmails = hashPorRemitentes.get(new Par(m.getFrom(), null)).getValue();
     } else {
       arbolDeEmails = new AvlTree<>();
     }
 
     arbolDeEmails.insert(m);
-    hashPorRemitentes.put(m.getFrom(), arbolDeEmails);
+    hashPorRemitentes.insert(new Par(m.getFrom(), arbolDeEmails));
   }
 
   /**
-   * Agrega un mail al HashMap de Strings.
+   * Agrega un mail al HashMap2 de Strings.
    *
    * @param m mail a agregar
    */
@@ -144,14 +152,14 @@ public class MailManager {
         contenido = "";
       }
 
-      if (hashPorString.exist(str)) {
-        arbolDeEmails = hashPorString.get(str);
+      if (hashPorString.contains(new Par(str, null))) {
+        arbolDeEmails = hashPorString.get(new Par(str, null)).getValue();
       } else {
         arbolDeEmails = new AvlTree<>();
       }
 
       arbolDeEmails.insert(m);
-      hashPorString.put(str, arbolDeEmails);
+      hashPorString.insert(new Par(str, arbolDeEmails));
 
     }
 
@@ -166,14 +174,14 @@ public class MailManager {
         asunto = "";
       }
 
-      if (hashPorString.exist(str)) {
-        arbolDeEmails = hashPorString.get(str);
+      if (hashPorString.contains(new Par(str, null))) {
+        arbolDeEmails = hashPorString.get(new Par(str, null)).getValue();
       } else {
         arbolDeEmails = new AvlTree<>();
       }
 
       arbolDeEmails.insert(m);
-      hashPorString.put(str, arbolDeEmails);
+      hashPorString.insert(new Par(str, arbolDeEmails));
 
     }
 
@@ -185,8 +193,8 @@ public class MailManager {
    * @param id identificador del mail a borrar
    */
   public void deleteMail(long id) throws Exception { //O(log n + k)
-    Email m = hashPorIds.get(id); //O(1)
-    hashPorIds.remove(id); //O(1)
+    Email m = hashPorIds.get(new Email(id)); //O(1)
+    hashPorIds.remove(m); //O(1)
     deleteArbolFechas(m); //O(log n)
     deleteArbolRemitentes(m); //O(log n)
     deleteTHashRemitentes(m); //O(log n)
@@ -232,14 +240,14 @@ public class MailManager {
   }
 
   /**
-   * Elimina un mail del HashMap de remitentes.
+   * Elimina un mail del HashMap2 de remitentes.
    *
    * @param m mail a borrar
    */
   private void deleteTHashRemitentes(Email m) throws Exception {
     AvlTree<Email> arbolDeEmails;
-    if (hashPorRemitentes.exist(m.getFrom())) {
-      arbolDeEmails = hashPorRemitentes.get(m.getFrom());
+    if (hashPorRemitentes.contains(new Par(m.getFrom(), null))) {
+      arbolDeEmails = hashPorRemitentes.get(new Par(m.getFrom(), null)).getValue();
     } else {
       throw new Exception("El Email no existe.");
     }
@@ -247,14 +255,14 @@ public class MailManager {
     arbolDeEmails.remove(m);
 
     if (arbolDeEmails.isEmpty()) {
-      hashPorRemitentes.remove(m.getFrom());
+      hashPorRemitentes.remove(new Par(m.getFrom(), null));
     } else {
-      hashPorRemitentes.put(m.getFrom(), arbolDeEmails);
+      hashPorRemitentes.insert(new Par(m.getFrom(), arbolDeEmails));
     }
   }
 
   /**
-   * Elimina un mail del HashMap de Strings.
+   * Elimina un mail del HashMap2 de Strings.
    *
    * @param m mail a borrar
    */
@@ -278,14 +286,14 @@ public class MailManager {
         contenido = "";
       }
 
-      arbolDeEmails = hashPorString.get(str);
+      arbolDeEmails = hashPorString.get(new Par(str, null)).getValue();
 
       arbolDeEmails.remove(m);
 
       if (arbolDeEmails.isEmpty()) {
-        hashPorString.remove(str);
+        hashPorString.remove(new Par(str, null));
       } else {
-        hashPorString.put(str, arbolDeEmails);
+        hashPorString.insert(new Par(str, arbolDeEmails));
       }
 
     }
@@ -301,14 +309,14 @@ public class MailManager {
         asunto = "";
       }
 
-      arbolDeEmails = hashPorString.get(str);
+      arbolDeEmails = hashPorString.get(new Par(str, null)).getValue();
 
       arbolDeEmails.remove(m);
 
       if (arbolDeEmails.isEmpty()) {
-        hashPorString.remove(str);
+        hashPorString.remove(new Par(str, null));
       } else {
-        hashPorString.put(str, arbolDeEmails);
+        hashPorString.insert(new Par(str, arbolDeEmails));
       }
 
     }
@@ -436,7 +444,7 @@ public class MailManager {
    */
   public Email[] getByFrom(String from)
       throws Exception { //O(k), k = cantidad de Emails del remitente.
-    AvlTree<Email> arbolDeEmails = hashPorRemitentes.get(from); //O(1).
+    AvlTree<Email> arbolDeEmails = hashPorRemitentes.get(new Par(from, null)).getValue(); //O(1).
     ArrayList<Email> emails = arbolDeEmails.inOrderNR(arbolDeEmails.getRoot()); //O(k)
     return emails.toArray(new Email[emails.size()]); //O(k)
   }
@@ -450,10 +458,18 @@ public class MailManager {
    */
   public Email[] getByQuery(String query)
       throws Exception { //O(h), h = cantidad de Emails con ese String.
-    query = formatearString(query);
-    AvlTree<Email> arbolDeEmails = hashPorString.get(query.toLowerCase().trim()); //O(1).
+
+    AvlTree<Email> arbolDeEmails;
+    query = formatearString(query).toLowerCase().trim();
+    try {
+      arbolDeEmails = hashPorString.get(new Par(query, null)).getValue(); //O(1).
+    } catch (Exception e) {
+      throw new Exception("El String ingresado no pertenece a ningun Email.");
+    }
+
     ArrayList<Email> emails = arbolDeEmails.inOrderNR(arbolDeEmails.getRoot()); //O(h)
     return emails.toArray(new Email[emails.size()]); //O(h)
+
   }
 
 }

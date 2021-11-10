@@ -125,7 +125,7 @@ public class Main {
           break;
       }
 
-      System.out.print("\nDesea Continuar? (S/N):  ");
+      System.out.print("\nDesea Continuar? (S/N): ");
       seguir = scanner.next().charAt(0);
     }
 
