@@ -24,4 +24,5 @@ class TreeNode<AnyType> {
     right = r;
     height = 0;
   }
+
 }
