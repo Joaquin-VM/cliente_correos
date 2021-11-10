@@ -1,0 +1,18 @@
+-.-.-:-.-.-
+date: 2017-05-21 09:42
+from: pepe@gmail.com
+to: juan@gmail.com
+subject: Consulta
+Hola Juan,
+ Como va? espero que estes bien, pronto nos vemos.
+
+Saludos
+-.-.-:-.-.-
+date: 2017-05-22 03:20
+from: pepe@gmail.com
+to: juanjose@gmail.com
+subject: Lo prometido
+Hola José, te mando los archivos que te prometí.
+
+Saludos
+-.-.-:-.-.-

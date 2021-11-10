@@ -1,0 +1,4874 @@
+-.-.-:-.-.-
+date: 2013-08-13 00:14
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject: Author: LibreBaseDate: 2013-08-13 00:14 UTCCC: librebaseNew-Topics: Re: [LibreBase] #6: 20130928 Installfest IES SB. Coordinar
+ [LibreBase]  #6: Installfest IES. Coordinar Installfest general
+#6: Installfest IES. Coordinar Installfest general------------------------+---------------------------
+ Reporter:  mbaldi      |           Owner:  dalonoso
+     Type:  tarea       |          Status:  new
+ Priority:  bloquea     |       Milestone:
+Component:  component1  |         Version:
+ Keywords:              |  Parent Tickets:  3
+------------------------+---------------------------
+ Dionisio es el maestro de ceremonias del installfest general. Coordina con
+ Marcelo López la infraestructura necesaria.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/6>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+My example project
+
+
+
+-.-.-:-.-.-
+date: 2013-08-13 23:57
+from: britosl---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #10: Logo de LibreBase
+bueno, pero no te enojes ...
+
+
+2013/8/13 Teresa Sempere García <teresa.sempere@gmail.com>
+
+> pesados son!
+> que siiii que tendremos logo :P
+>
+>
+> 2013/8/13 LibreBase <trac@grulic.psi.unc.edu.ar>
+>>> #10: Logo de LibreBase
+>> ------------------------+---------------------------
+>>  Reporter:  dalonso     |           Owner:  tsempere
+>>      Type:  tarea       |          Status:  new
+>>  Priority:  bloquea     |       Milestone:
+>> Component:  component1  |         Version:
+>>  Keywords:              |  Parent Tickets:
+>> ------------------------+---------------------------
+>>  Crear un logo para LibreBase
+>>
+>> --
+>> Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/10>
+>> LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+>> My example project
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-- 
+hola
+
+
+-.-.-:-.-.-
+date: 2013-08-27 00:02
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: Mini InstallFest en Casa13 - Agosto 2013
+#5: Mini InstallFest en Casa13 - Agosto 2013-----------------------------+-------------------------
+      Reporter:  tsempere    |      Owner:  somebody
+          Type:  tarea       |     Status:  new
+      Priority:  mayor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:  installfest
+Parent Tickets:              |
+-----------------------------+-------------------------
+
+Comment (by mbaldi):
+ En la reunión 20130628 decidimos:
+  * hacer el mini-ifest el día lun 16/9 a las 19hs en Casa 13
+  * tsempere les manda un mensaje:
+     * avisando
+     * pasando requerimientos de Flisol
+     * aquellos que tienen lectoras de CD en sus compus que traigan un CD
+ virgen
+     * aquellos que no, traigan un pendrive >=2Gb limpio.
+  * Vamos a instalar Gnome-Ubuntu 13.04
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/5#comment:3>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+My example project
+
+
+
+-.-.-:-.-.-
+date: 2013-08-27 00:18
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #9: Reuniones LibreBase
+#9: Reuniones LibreBase-----------------------------+--------------------
+      Reporter:  mbaldi      |      Owner:  mbaldi
+          Type:  tarea       |     Status:  new
+      Priority:  mayor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+--------------------
+Changes (by mbaldi):
+
+ * priority:  bloquea => mayor
+
+
+Old description:
+
+> Documentar las reuniones de LibreBase
+
+New description:
+
+ Documentar las reuniones de !LibreBase
+
+--
+
+Comment:
+
+ Reunión 20130826
+
+  * Asistentes: dalonos, lbritos, tsempere, mbaldi,
+  * Duración: 20-21:15
+
+ Próxima reunión: lunes 9/9
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/9#comment:2>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+My example project
+
+
+
+-.-.-:-.-.-
+date: 2013-08-27 07:05
+from: nicoecha---@altermundi.net
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ Resumen de LibreBase, Vol 2, Envío 30
+El 26/08/13 12:04, Marcelo C. Baldi escribió:
+> El 25/08/13 22:13, Gabriela Giordanengo escribió:
+>> Hol@! sería genial si se pueden llegar hasta la escuela nueva (en el
+>> límite de VCPaz-San Antonio) así dejamos andando la internet de
+>> ChakanaLibre!!! además, quien pueda llegarse, podría darnos una mano con
+>> la impresora-PC que al ponerle Huayra, querdó desconfigurada y por lo
+>> tanto inutilizada ... lo que representa una dificultad muy grande en una
+>> escuela con más de 400 chicos, variados trámites y múltiples proyectos
+>> en "danza" desde ya muchas gracias, G
+> 
+> Tal vez podamos encontrar en las listas de [Grulic] [1] o SLUC [2] algún
+> residente en Carlos Paz que pueda dar una mano con eso.
+> 
+> Antes que eso: dudas:
+> >  * ¿qué marca y modelo es la impresora?
+>  * ¿cómo está conectada? (cable USB, paralelo, red )
+>  * ¿probaron con la documentación de la ayuda
+>     (Icono Ayuda -> Hardware -> Impresoras)?
+>  * ¿preguntaron en el foro de Huayra [3]?
+
+si mal no recuerdo era Epson Stylus cx8300 (multi-función). La tuvimos
+en casa un par de días, junto con la compu. Le instalamos al huayra el
+driver descargado directamente desde Epson y acá imprimió un par de
+páginas sin problema, inclusive probamos el scanner y también
+funcionaba. No se me ocurre que se puede haber descompaginado luego.
+Seguramente si algún linuxero se puede acercar lo descula en el momento.
+
+
+> [1] https://mx.grulic.org.ar/mailman/listinfo/grulic
+> [2] https://listas.usla.org.ar/cgi-bin/mailman/listinfo/sluc
+> [3] http://huayra.conectarigualdad.gob.ar/foro/
+> >>     From: Nicolás Echániz <nicoechaniz@altermundi.net
+>> [...]
+>>     Amigos,
+>>>>     Hace un par de semanas con la Iesi fuimos para San Antonio de Arredondo,
+>>     a la escuela nueva, a trabajar con Gabi en el inicio de ChakanaLibre.
+>>     Armamos juntos los aparatos y antenas, dejamos montado el enlace entre
+>>     la escuela y la casa de Gabi (2.8Km), pero quedó faltando instalar un
+>>     cable desde el puerto LAN del inyector PoE que alimenta el nodo de la
+>>     escuela, hasta adentro de la escuela, para que tengan Internex en un
+>>     cable y puedan distribuirlo como necesiten. Inicialmente a una compu
+>>     directo o a un router wifi interno.
+> 
+> Si no hay que agujerear paredes, tal vez podamos armar el cable acá y
+> pasárselo a Gabi para que lo conecte. Dudas:
+
+Sería mejor pasar el cable por la pared... no recuerdo que hubiera forma
+de hacerlo entrar de otra forma, pero quizás Gabi sabe.
+
+También si tienen una mecha larga de pared de 12mm, se puede hacer un
+agujero por donde pasan cable y ficha...
+
+>  * ¿longitud del cable?
+
+el salón más cercano, so no recuerdo mal es una biblioteca? depende de
+cómo se pase el cable, pero pueden ser 10 ó 15 metros aprox.
+Se puede conectar desde la entrada LAN del PoE, que está en la base de
+la estructura del tanque de agua.
+
+>  * ¿está expuesto a la intemperie?
+
+Sí.
+
+
+
+
+-.-.-:-.-.-
+date: 2013-08-29 15:16
+from: lru---@inti.gob.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ Instalación Huayra en escuela Primaria!!
+Huy huy huy, que lindo que suena una propuesta así... el HuayraMóvil... je.
+¿Vamos buscando accionistas? Pero de dónde conseguimos vendedores de 
+tiempo disponible? ja.
+
+Nico: tomo nota de vuestro viaje a las europas, y estaremos invitando 
+entonces a Alejandro Lamela y/o Fernando Hidalgo y compañeras/os de 
+redes libres para el Festival del 28/Septiembre.
+
+Saludos!
+Leandro.
+
+
+> Cuando empezamos con ArraigoDigital[0], con Jesi pensábamos en
+> convertirnos en nómades durante un tiempo llevando el programa a cada
+> provincia. Se abandonó silenciosamente en su infancia, así que ese plan
+> nunca se concretó, pero nunca dejamos de pensar que sería una buena
+> idea. En particular nosotros siempre tenemos interés en trabajar con
+> pequeños pueblos del interior y nos gustaría llevar el combo Huayra +
+> red comunitaria a cada rincón. Si hay más gente que seriamente quiera
+> organizar algo en este sentido, a nosotros nos interesa. Acá en quintana
+> se vende un 1114 convertido en motorhome por $30.000 ...  El HuayraMóvil
+> ?   :)
+>
+> En otras iteraciones de esta misma idea de tener un móvil, hablamos de
+> que la "tripulación" podría ser rotativa. Algo así como un mes cada
+> tripulación, donde cada colectivo, grupo, cooperativa, etc. relacionada
+> al software y la cultura libre "donarían" el tiempo de uno de sus
+> miembros durante ese período.  En fin... ideas nunca faltan jaja...
+> falta tiempo.
+>
+> Abrazos!
+> Nico
+>
+> [0] http://www.arraigodigital.org.ar
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>    
+
+-- 
+Téc. Leandro F. Rueda
+U.E. Cruz del Eje
+Centro Regional Córdoba - INTI
+Calle Alvear y Vicente Olmos
+Ciudad de Cruz del Eje - CP (5280)
+Dpto. Cruz del Eje - Pcia. de Córdoba
+
+Cel. Flota INTI: 0351-15-2420235
+Cel. Personal: 03549-15-631626
+
+
+
+
+-.-.-:-.-.-
+date: 2013-08-30 14:40
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  [LibreBase]  #12: Calendario para LibreBase
+#12: Calendario para LibreBase------------------------+-------------------------
+ Reporter:  mbaldi      |           Owner:  mbaldi
+     Type:  tarea       |          Status:  new
+ Priority:  mayor       |       Milestone:
+Component:  component1  |         Version:
+ Keywords:              |  Parent Tickets:
+------------------------+-------------------------
+ sserantes propuso en las primeras reuniones utilizar un servidor de
+ calendarios para poder organizar y coordinar las actividades de
+ !LibreBase.
+
+ Para implementar una solución, hay que ver si vamos a necesitar
+ calendarios para actividades:
+  * públicas (exclusivamente)
+  * públicas y de organización interna.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/12>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-08-31 00:05
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #12: Calendario para LibreBase
+#12: Calendario para LibreBase-----------------------------+--------------------
+      Reporter:  mbaldi      |      Owner:  mbaldi
+          Type:  tarea       |     Status:  new
+      Priority:  mayor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+--------------------
+
+Comment (by mbaldi):
+
+ Si necesitamos un  calendario para organización interna (datos no-
+ públicos), entonces habría que considerar habilitar en el servidor de
+ Grulic:
+  * un [https://www.linux.com/learn/tutorials/402382:the-five-best-open-
+ source-calendar-servers-for-linux servidor de calendarios]:
+ [http://calendarserver.org/ Darwin Calendar Server],
+ [http://www.davical.org/ DaviCAL], ...
+  * un cliente web CalDAV: [http://code.google.com/p/webical/ Webical],
+ [http://agendav.org/ AgenDAV], ...
+
+ Notas:
+  * las opciones en el servidor de Grulic permiten múltiples calendarios,
+ con lo cual podríamos tener tanto públicos como privados.
+  * si sólo fueran datos públicos, entonces alcanzaría con usar
+ [https://www.google.com/calendar?hl=es un calendario de Google].
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/12#comment:1>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-02 22:09
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #4: Encuentro Cultural Circuito Cono Sur ::: 13-15
+ sept
+#4: Encuentro Cultural Circuito Cono Sur ::: 13-15 sept-----------------------------+----------------------
+      Reporter:  tsempere    |      Owner:  tsempere
+          Type:  tarea       |     Status:  assigned
+      Priority:  bloquea     |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+----------------------
+
+Comment (by tsempere):
+
+ == Encuentro Circuito Cultural Cono Sur ==
+ '''Lugar:''' Auditorio Radio Nacional
+ '''Hora:''' Sábado 14, de 14 a 16hs
+
+ '''Cantidad asistentes:''' 30-40 personas
+ '''Descripción público objetivo:''' vinculados a la cultura en general
+ (productores, gestores culturales; gente interesada por la cultura,
+ artistas y demás)
+ '''
+ Nombre:''' (por definir)
+
+  * Introducción al software libre y las licencias libres en la cultura (?)
+  * Libertad de gestionar?
+  * Qué tiene que ver la cultura y el software libre con la GC?
+
+ '''
+ Descripción de la actividad:'''
+ Acercamiento al uso de herramientas abiertas y colaborativas, y su
+ implementación en el campo del arte y la cultura.
+
+ '''Tipo de actividad:'''
+ Charla introductoria (instancia de concienciación) - taller (instancia de
+ capacitación)
+
+ '''Técnica:''' proyector y audio
+ *** habría que indicar que los participantes trajesen sus computadoras ***
+
+ '''Objetivos:'''
+
+  * Entender el uso de herramientas y tecnologías libres como una postura
+ ética y política que, por un lado, facilita el acceso, la utilización y el
+ intercambio de información y conocimiento, y por otro, crea, fortalece y
+ beneficia a la comunidad en general.
+  * Incentivar y fortalecer prácticas de producción, difusión y circulación
+ de materiales audiovisuales elaborados/licenciados con SL/código abierto.
+
+ '''Distribución de tiempos:'''
+
+  * Intro y presentación (20min)
+
+ Espíritu del software y la cultura libre (mix de historia, licencias, SL,
+ WM)
+
+  * Algunos ejemplos (30min)
+
+ Ejemplos de plataformas SL para el trabajo colaborativo en gestión
+ cultural. Equivalencias de software, etc
+
+  * Preguntas y trabajo en grupos (50min) >> buscar un ejercicio para que
+ ellos laburasen en grupos; algo rápido, para que salgan “habiendo hecho
+ algo”
+
+  * Puesta en común y cierre (20min)
+
+ duración TOTAL: 2hs
+
+ ***
+ INSTANCIA TEÓRICA
+
+  * ¿Qué entendemos por cultura libre? (licencias, software…) y cuál es la
+ importancia en el ámbito cultural
+
+ INSTANCIA PRÁCTICA
+
+  * Herramientas para el trabajo colaborativo
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/4#comment:5>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-04 14:52
+from: lru---@inti.gob.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #3: Installfest de Huayra - IES Simon Bolivar
+Van comentarios...
+
+El 03/09/13 18:22, LibreBase escribió:> #3: Installfest de Huayra - IES Simon Bolivar
+> -----------------------------+---------------------
+>        Reporter:  mbaldi      |      Owner:  mflopez
+>            Type:  tarea       |     Status:  new
+>        Priority:  bloquea     |  Milestone:
+>       Component:  component1  |    Version:
+>      Resolution:              |   Keywords:
+> Parent Tickets:              |
+> -----------------------------+---------------------
+>
+> Comment (by mbaldi):
+>
+>   Ayer hablé con Marcelo Lopez:
+>>   Infraestructura:
+>    * El IES Simón Bolívar es coorganizador del evento.
+>    * Salón / Aulas: están confirmadas las reservas del Salón y 2 aulas para
+>   el sábado 28/9 de 9-13hs y los proyectores respectivos. El salón tiene
+>   equipo de audio.
+>    * Aula Soporte técnico: lrueda propuso un aula más para dar soporte
+>   técnico a los que ya tienen Huayra. Está pendiente esto. Leandro:
+>   comunicate con Marcelo para que sepa si tiene que reservar un aula más.
+>    
+Estamos viendo de reunirnos el viernes con Cecilia Cargnelutti y Pablo 
+Calderón, para definir la propuesta para "la tercer aula para darle 
+soporte a usuarios noveles de Huayra". Y allí confirmaremos si podemos 
+concretar este espacio.
+>   Asistentes:
+>    * Estima que va a haber un número de asistentes técnicos similar al del
+>   Flisol-Huayra, por lo que no habría inconveniente en ampliar la invitación
+>   a los docentes/estudiantes de los días 7 y 14.
+>    * Avisa al resto de los asistentes técnicos del min. de educación la
+>   reunión del 23/9 (19:30hs) en Casa 13 para coordinar.
+>>   Cupo:
+>    * Necesitamos saber cuántos pendrives dispondremos.
+>    * También cuántos faltan grabar con Huayra 1.1 (con dd).
+>    
+Sobre los pendrives con imágenes de Huayra: tengo para devolverle a Gaby 
+los 30 pendrives que usamos en la Escuela de Carlos Paz, se supone que 
+están listos para usar...
+>   Difusión:
+>
+>   Marcelo va a armar la difusión del evento y las invitaciones. Para ello
+>   necesita:
+>>    1. Armar una gacetilla y tenemos que pasarle quienes somos los
+>   organizadores del lado de !LibreBase. Cuando tengamos una página web,
+>   podremos incluírla. Hablo con mgiraldes y le aviso.
+>    2. Listado de charlas a presentar (ver #8).
+>    3. Datos para solicitar a los participantes (tomado del Flisol):
+>      * Nombre Completo:
+>      * Email:
+>      * ¿Vas a instalar?
+>      * Perfil: (Estudiante, Profesor, Técnico)
+>      * Institución:
+>      * Localidad:
+>      * Marca y modelo de Netbook:
+>
+>    
+
+-- 
+Téc. Leandro F. Rueda
+U.E. Cruz del Eje
+Centro Regional Córdoba - INTI
+Calle Alvear y Vicente Olmos
+Ciudad de Cruz del Eje - CP (5280)
+Dpto. Cruz del Eje - Pcia. de Córdoba
+
+Cel. Flota INTI: 0351-15-2420235
+Cel. Personal: 03549-15-631626
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-04 15:06
+from: girald---@gmail.com
+to: librebase@grulic.org.ar
+subject:  [LibreBase] Fwd: Expo Emprendimientos Creativos en el CCEC
+Hola a todos, acá nos llegó una invitación interesante para LB, pero
+lamentablemente se superpone con el ifest del Simón Bolívar. Caso contrario
+hubiese estado bueno poder participar... pero queda el contacto para
+próximas ediciones y/o eventos similares.
+
+Saludos,
+M.
+
+---------- Mensaje reenviado ----------
+De: Jornadas Creativas <expoecreativoscba@gmail.com>
+Fecha: 4 de septiembre de 2013 11:58
+Asunto: Expo Emprendimientos Creativos en el CCEC
+Para: giraldesm@gmail.com
+
+
+          Estimadxs
+
+Nos ponemos en contacto con el grupo de cultura y software libre de
+Córdoba para
+acercarles una invitación especial.
+
+Los días 26 - 27 - 28 de Septiembre se realizarán las primeras *Jornadas de
+Emprendimientos creativos y Organizaciones Culturales*, en el Área de
+Gestión Cultural FCE-UNC y el Centro Cultural España Córdoba.
+
+El evento busca contribuir con el proceso de creación y consolidación de
+los emprendimientos creativos y en la gestión de organizaciones culturales,
+favoreciendo el intercambio de experiencias, la colaboración y el trabajo
+en red.
+
+Para ello, se organizará la “*expo emprendimientos creativos*” que
+permitirá visibilizar y hacer extensiva a la comunidad, las diversas
+propuestas locales audiovisuales, editoriales, musicales y del sector
+diseño, entre otros.
+
+A su vez se dictará el seminario especial “Gestión de Emprendimientos
+Creativos y Organizaciones culturales” de los mitos a la acción y dos
+conferencias, a cargo del especialista Ángel Mestres, quien acompañará el
+desarrollo emprendedor de los proyectos participantes.
+
+El objetivo de este correo es invitarlos a que integren la expo con un
+stand propio y a participar de los seminarios y actividades de resultarles
+interesantes.
+
+A fin de brindarles toda la información necesaria en relación a la
+producción (necesidades técnicas, materiales, etc.) hemos organizado una
+reunión para aclarar dudas y coordinar el desarrollo de la expo.
+
+*Reunión de producción Expo Emprendimientos Creativos*
+
+*Lunes 9 de septiembre // **18:30hs. *CCEC (Entre Ríos 40 Cba)
+
+Agradecemos la confirmación de su interés y disponibilidad como respuesta a
+este correo y adelantamos para su conocimiento, el programa tentativo de
+actividades.
+
+
+
+*ACTIVIDADES*
+
+*Jueves 26 y viernes 27: *Área de Gestión Cultural FCE - UNC
+
+*18 a 21hs: *Apertura de las Jornadas - Seminario “Gestión de
+Emprendimientos Creativos y Organizaciones culturales” de los mitos a la
+acción. a cargo de Ángel Méstres.
+
+
+
+*Sábado 28: *Centro Cultural España Córdoba -CCEC-
+
+*16 a 20hs: *Expo Emprendedores Creativos
+
+*17:30hs: *Presentación del proyecto “Música para Camaleones” (Transit
+Projects)
+
+*18:30 a 20hs: *Conferencia a cargo de Ángel Mestres.
+
+*20hs: *Cierre con música en vivo
+
+
+
+> *Ángel Mestres *(España)* Especialista en emprendedorismo creativo y
+> organizaciones culturales. Director General de Transit projects y
+> presidente del Centro de Estudios y Proyectos Sociales. Coordinador
+>  Académico  del master de empresas e instituciones culturales de la
+> Universidad de Barcelona. Ha sido: Director General  de Distesa Grupo
+> Anaya, Director  de Comunicación y Recursos Externos del Instituto de
+> Cultura de Barcelona  (Ayuntamiento de Barcelona) y Presidente de Abacus
+> Cooperativa.*
+
+
+
+Será un gusto que participen de esta experiencia
+
+Gracias por su tiempo.
+
+Atentamente.
+
+
+
+*Lic. Silvina Freiberg y equipo de trabajo
+*
+Área de Gestión Cultural FCE-UNC
+
+
+-.-.-:-.-.-
+date: 2013-09-04 23:08
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #12: Calendario para LibreBase
+gracias Luis, ya lo subí al track :)
+
+
+El 4 de septiembre de 2013 11:55, luis britos <britosluis@gmail.com>escribió:
+
+> gacetilla de prensa encuentro cultural cono sur...
+>
+>
+> El 30 de agosto de 2013 21:06, LibreBase <trac@grulic.psi.unc.edu.ar>escribió:
+>> #12: Calendario para LibreBase
+>> -----------------------------+--------------------
+>>       Reporter:  mbaldi      |      Owner:  mbaldi
+>>           Type:  tarea       |     Status:  new
+>>       Priority:  mayor       |  Milestone:
+>>      Component:  component1  |    Version:
+>>     Resolution:              |   Keywords:
+>> Parent Tickets:              |
+>> -----------------------------+--------------------
+>>
+>> Comment (by mbaldi):
+>>
+>>  Si necesitamos un  calendario para organización interna (datos no-
+>>  públicos), entonces habría que considerar habilitar en el servidor de
+>>  Grulic:
+>>   * un [https://www.linux.com/learn/tutorials/402382:the-five-best-open-
+>>  source-calendar-servers-for-linux servidor de calendarios]:
+>>  [http://calendarserver.org/ Darwin Calendar Server],
+>>  [http://www.davical.org/ DaviCAL], ...
+>>   * un cliente web CalDAV: [http://code.google.com/p/webical/ Webical],
+>>  [http://agendav.org/ AgenDAV], ...
+>>
+>>  Notas:
+>>   * las opciones en el servidor de Grulic permiten múltiples calendarios,
+>>  con lo cual podríamos tener tanto públicos como privados.
+>>   * si sólo fueran datos públicos, entonces alcanzaría con usar
+>>  [https://www.google.com/calendar?hl=es un calendario de Google].
+>>
+>> --
+>> Ticket URL: <
+>> https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/12#comment:1>
+>> LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+>> Actividades de Cultura Libre en Córdoba
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>
+>
+>
+> --
+> hola
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-09 23:19
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #4: 20130914 - Encuentro Cultural Circuito Cono Sur
+ ::: 13-15 sept (was: Encuentro Cultural Circuito Cono Sur ::: 13-15 sept)
+#4: 20130914 - Encuentro Cultural Circuito Cono Sur ::: 13-15 sept-----------------------------+----------------------
+      Reporter:  tsempere    |      Owner:  tsempere
+          Type:  tarea       |     Status:  assigned
+      Priority:  bloquea     |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+----------------------
+
+Comment (by mbaldi):
+
+ tsempere y mgiraldes avisan que está confirmada la charla de 14-16hs el
+ día sab 20130914. Convive con 2 charlas muy convocantes por lo tanto
+ estiman baja convocatoria. Por eso ellos invitan sin compromiso a quienes
+ quieran sumarse a la improvisación en ámbitos culturales.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/4#comment:6>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-09 23:39
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13 (was: Mini
+ InstallFest en Casa13 - Agosto 2013)
+#5: 20130916 Mini InstallFest en Casa13-----------------------------+-------------------------
+      Reporter:  tsempere    |      Owner:  somebody
+          Type:  tarea       |     Status:  new
+      Priority:  mayor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:  installfest
+Parent Tickets:              |
+-----------------------------+-------------------------
+
+Comment (by mbaldi):
+
+ tsempere confirma que van a ser entre 5 y 7 personas. Somos 5 asistentes
+ técnicos confirmados (dalonso, lperona, lguanuco, mgiraldes, mbaldi).
+ mbaldi manda dudas técnicas si las hay a tsempere y ella  manda a su vez
+ un mail para confirmación final de asistencia. Cada asistente traiga su
+ notebook con grabadora de DVDs. Que traigan alargues con zapatillas.
+ Horario final: 19hs el próximo lunes 16/9
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/5#comment:6>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-09 23:52
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  [LibreBase]  #15: Normas de convivencia para la lista
+#15: Normas de convivencia para la lista------------------------+----------------------------
+ Reporter:  mgiraldes   |           Owner:  mgiraldes
+     Type:  tarea       |          Status:  new
+ Priority:  menor       |       Milestone:
+Component:  component1  |         Version:
+ Keywords:              |  Parent Tickets:
+------------------------+----------------------------
+ Adaptación para LibreBase de las normas de convivencia de GRULIC y su
+ correspondiente publicación en la wiki.
+
+ Fuente: !http://www.grulic.org.ar/node/8
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/15>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-10 00:20
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #12: Calendario para LibreBase
+#12: Calendario para LibreBase-----------------------------+--------------------
+      Reporter:  mbaldi      |      Owner:  mbaldi
+          Type:  tarea       |     Status:  new
+      Priority:  mayor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+--------------------
+
+Comment (by mbaldi):
+
+ En la reunión 20130909 se decidió usar un calendario con privacidad. Hay
+ que habilitar un calendario en el servidor de Grulic.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/12#comment:2>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-10 00:33
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #8: InstallFest IES. Coordinación de charlas
+#8: InstallFest IES. Coordinación de charlas-----------------------------+-----------------------
+      Reporter:  mbaldi      |      Owner:  mgiraldes
+          Type:  tarea       |     Status:  new
+      Priority:  bloquea     |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:  3           |
+-----------------------------+-----------------------
+
+Comment (by mgiraldes):
+
+ Lila confirma disponibilidad para el sábado hasta las 12:30, a fines de
+ dictar la charla sobre REA. Pendiente confirmar la realización de charla
+ de redes libres para definir la distribución de los espacios (charla de
+ sistema de aprendizaje y generación de contenidos no se va a realizar).
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/8#comment:2>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-10 01:39
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #9: Reuniones LibreBase
+#9: Reuniones LibreBase-----------------------------+--------------------
+      Reporter:  mbaldi      |      Owner:  mbaldi
+          Type:  tarea       |     Status:  new
+      Priority:  mayor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+--------------------
+
+Comment (by mbaldi):
+
+ Reunión 20130909
+
+  * Asistentes: mbaldi, dalonso, tsempere, lperona, lpagola, tvallejos,
+ lguanuco, lbritos, mgiraldes
+  * Duración: 19:30 - 22:45hs
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/9#comment:3>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-10 12:16
+from: lru---@inti.gob.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #9: Reuniones LibreBase
+Compañeras/os, muchas gracias -como siempre- por sostener el espacio de 
+reuniones presenciales en Casa 13, y por enviarnos los puntos tratados. 
+De mi parte está complicado viajar en estos lunes pasados y venideros.
+Comento que ya arrancamos con el diseño del "tercer espacio" destinado a 
+usuarios noveles de Huayra, durante el i-fest del 28/Septiembre 
+(arrancamos el diseño con Ceci Cargnelutti, Pablo Calderón y esperamos 
+sumar aportes de Gaby Giordanengo). Estamos en comunicación con Marcelo 
+López para su inclusión en la gacetilla de difusión.
+En cuanto tengamos un propuesta del taller mejor redactada la 
+compartiremos para todos.
+Abrazos!
+Leandro.
+
+
+El 09/09/13 22:40, LibreBase escribió:> #9: Reuniones LibreBase
+> -----------------------------+--------------------
+>        Reporter:  mbaldi      |      Owner:  mbaldi
+>            Type:  tarea       |     Status:  new
+>        Priority:  mayor       |  Milestone:
+>       Component:  component1  |    Version:
+>      Resolution:              |   Keywords:
+> Parent Tickets:              |
+> -----------------------------+--------------------
+>
+> Comment (by mbaldi):
+>
+>   Reunión 20130909
+>>    * Asistentes: mbaldi, dalonso, tsempere, lperona, lpagola, tvallejos,
+>   lguanuco, lbritos, mgiraldes
+>    * Duración: 19:30 - 22:45hs
+>
+>    
+
+-- 
+Téc. Leandro F. Rueda
+U.E. Cruz del Eje
+Centro Regional Córdoba - INTI
+Calle Alvear y Vicente Olmos
+Ciudad de Cruz del Eje - CP (5280)
+Dpto. Cruz del Eje - Pcia. de Córdoba
+
+Cel. Flota INTI: 0351-15-2420235
+Cel. Personal: 03549-15-631626
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-10 12:28
+from: javier---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+Install-fest en escuela de Córdoba capital
+Yo me sumo, estoy cerca !
+
+Saludos
+Ing. Javier Alejandro Jorge
+
+
+2013/9/7 Teresa Sempere García <teresa.sempere@gmail.com>
+
+> abramos orden del día para la reunión de este lunes
+> :)
+> y añadamos *actualización de máquinas en la spilin* :P
+>
+>
+> El 7 de septiembre de 2013 12:17, Maximiliano Giraldes <
+> giraldesm@gmail.com> escribió:
+>
+>  +1, justo para LibreBase.
+>>
+>> Se me ocurre que hasta podemos hacer algún tallercito de prod. musical
+>> con herramientas libres (si Valen puede), articulando con una de las profes
+>> de música a la que conozco y sé que le interesa el tema.
+>>
+>> Pero por supuesto necesitaríamos tiempo hasta octubre o noviembre para
+>> poder organizar todo... (pienso en los últimos meses del año y siento
+>> escalofríos).
+>>
+>> Saludos,
+>> M.
+>>
+>>
+>>
+>> El 06/09/13 18:33, Lila Pagola escribió:
+>>
+>>   Hola a todos,
+>>
+>>  Una amiga, directora de la escuela secundaria Maestro Diehl, mas
+>> conocida como la de los niños músicos, me escribió porque quiere organizar
+>> un i-fest en su escuela, para ambos niveles (primario y secundario), porque
+>> hace tiempo que han empezado a trabajar con SL y les sucede que los chicos
+>> usan en la escuela programas que luego no pueden usar en sus casas.
+>>
+>>  Les parece que podemos darle una mano desde Librebase?
+>>  Supongo que el primer paso es saber cuantas computadoras estima que se
+>> instalarían, y respecto a la fecha, ella pensaba en setiembre, pero ya le
+>> adelanté que no me parece posible organizarlo tan rápido.
+>>
+>>  ¿qué dicen?
+>>  hasta luego!
+>>
+>>
+>> _______________________________________________
+>> LibreBase mailing listLibreBase@grulic.org.arhttps://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>>
+>>
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-10 15:41
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13
+#5: 20130916 Mini InstallFest en Casa13-----------------------------+-------------------------
+      Reporter:  tsempere    |      Owner:  tsempere
+          Type:  tarea       |     Status:  assigned
+      Priority:  mayor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:  installfest
+Parent Tickets:              |
+-----------------------------+-------------------------
+Changes (by mbaldi):
+
+ * owner:  somebody => tsempere
+ * status:  new => assigned
+
+
+Comment:
+
+ Análisis de
+ [https://docs.google.com/spreadsheet/ccc?key=0AsUNcK0zTnMidGdDcG9PWkFxOWRvS3h5LU9tbmxtSHc#gid=0
+ respuestas afirmativas para mini-ifest]:
+
+ Para correr Gnome-Ubuntu 13.04 recomiendan al menos 1Gb de RAM (ver:
+ [https://wiki.ubuntu.com/UbuntuGNOME  requerimientos Gnome-Ubuntu 13.04]).
+
+ Sería recomendable un Lubuntu 13.04 para:
+ || Acer Aspire 5315  || Celeron, 1Gb RAM, 80Gb HD ||
+
+ Estas cumplen requerimientos mínimos para Gnome-Ubuntu 13.04: || SAMSUNG R430                                      || Core2Duo T66000,
+ 2Gb RAM, 320Gb HD || || Samsung E300. modelo: NP300E5C       || Celeron B815, 2Gb RAM, 320Gb HD
+ ||
+ || Lenovo G480. Con Windows 8 , 64 bit.  || Pentium B980, 4Gb RAM, 500Gb
+ HD ||
+
+ Hay 2 que no dan más datos:
+ || PC Escritorio... CLON placa ASSUS ||
+ || HP   ||
+
+ En este último caso necesitamos pedirles que nos digan:
+  * cuánta memoria RAM tienen
+  * tamaño de disco duro
+  * microprocesador (CPU)
+
+ Recordar que hay que pedirles a todos que traigan:
+  * un DVD virgen  o  un pendrive de 2Gb vacío
+  * prolongador con enchufes (zapatilla)
+  * monitor, teclado, mouse si no es una notebook/netbook.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/5#comment:7>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-11 13:21
+from: dalo---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject: Author: Dionisio E Alonso (Baco)Date: 2013-09-11 13:21 UTCTo: Coordinación y difusión de actividades de Cultura Libre en CórdobaNew-Topics: Re: [LibreBase]
+ [LibreBase] Reglas de convivencia en la lista LibreBase [era  "Presentación institucional" de LibreBase para web y gacetillas]
+2013/9/11 Lila Pagola <lilapagola@gmail.com>:
+> Buenas,
+>
+> Me parece que lo faltaría a la regla de los 90kb (que personalmente subiría
+> un poco) es acompañarla por la comunicación clara, redundante, no enojada y
+
+A riesgo de proponer algo de lo que nos vayamos a arrepentir... ¿y si
+revisamos qué debería mudarse de la Netiquette de GrULiC a la
+Netiquette de LibreBase en próximas reuniones de LibreBase?
+
+-- 
+Dionisio
+
+
+
+-.-.-:-.-.-
+date: 2013-09-11 13:58
+from: marcelo.ba---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] Reglas de convivencia en la lista LibreBase
+Buenas,
+
+El 11/09/13 10:21, Dionisio E Alonso (Baco) escribió:
+> 2013/9/11 Lila Pagola <lilapagola@gmail.com>:
+>> 
+>> Me parece que lo faltaría a la regla de los 90kb (que personalmente
+>> subiría un poco) es acompañarla por la comunicación clara,
+>> redundante, no enojada y
+> 
+> A riesgo de proponer algo de lo que nos vayamos a arrepentir... ¿y
+> si revisamos qué debería mudarse de la Netiquette de GrULiC a la 
+> Netiquette de LibreBase en próximas reuniones de LibreBase?
+
+Creo que este debate y sus malentendidos es un síntoma claro de que
+necesitamos consensuar la Netiquette para [LibreBase]. Esto es algo
+normal en toda lista de correo cuyo tráfico se vuelve relevante (y en
+buena hora que así sea, significa que está siendo útil).
+
+El problema de la edición de e-mails extensos (con citas que no están
+relacionadas ni con el tema ni la respuesta) probablemente tenga más que
+ver con el programa que se usa para responder el mensaje que con otra
+cosa y tenemos que considerarlo también.
+
+Me parece que la propuesta de Lila y Maxi es la más superadora:
+
+> readaptar las normas de convivencia de GRULIC para LB: traducir los
+> tecnicismos para un público más amplio, resumirlas lo más posible
+> para no desalentar su lectura, etc.
+
+Estoy subiendo al Trac una copia de la Netiquette de Grulic para poder
+editarla y adaptarla a LibreBase:
+
+https://200.16.16.187/cgi-bin/librebase/trac.cgi/wiki/LibreBaseNetiquette
+
+Saludos,
+
+M.
+
+P.S: mi intención no fue retar a nadie, sino aclarar las razones que
+había detrás. Si ofendí a alguien, pido disculpas.
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-11 14:15
+from: girald---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] Reglas de convivencia en la lista LibreBase
+>
+> > A riesgo de proponer algo de lo que nos vayamos a arrepentir... ¿y
+> > si revisamos qué debería mudarse de la Netiquette de GrULiC a la
+> > Netiquette de LibreBase en próximas reuniones de LibreBase?
+>
+
++1
+
+Una vez que terminemos con las actividades que tenemos para noviembre, voy
+a tratar de dejar lista una propuesta así la contrastamos con la anterior y
+podemos discutirla en próximas reuniones.
+
+
+> Creo que este debate y sus malentendidos es un síntoma claro de que
+> necesitamos consensuar la Netiquette para [LibreBase]. Esto es algo
+> normal en toda lista de correo cuyo tráfico se vuelve relevante (y en
+> buena hora que así sea, significa que está siendo útil).
+>
+
+Pulgares arriba!
+
+
+> Estoy subiendo al Trac una copia de la Netiquette de Grulic para poder
+> editarla y adaptarla a LibreBase:
+>
+> https://200.16.16.187/cgi-bin/librebase/trac.cgi/wiki/LibreBaseNetiquette
+>
+
+Gracias Marce
+
+
+-.-.-:-.-.-
+date: 2013-09-11 15:00
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #15: Normas de convivencia para la lista
+#15: Normas de convivencia para la lista-----------------------------+-----------------------
+      Reporter:  mgiraldes   |      Owner:  mgiraldes
+          Type:  tarea       |     Status:  new
+      Priority:  menor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+-----------------------
+
+Old description:
+
+> Adaptación para LibreBase de las normas de convivencia de GRULIC y su
+> correspondiente publicación en la wiki.
+>
+> Fuente: !http://www.grulic.org.ar/node/8
+
+New description:
+
+ Adaptación para !LibreBase de las normas de convivencia de GRULIC y su
+ correspondiente publicación en la wiki.
+
+ Fuente: [http://www.grulic.org.ar/node/8 NAQ de Grulic]
+
+--
+
+Comment (by mbaldi):
+
+ He subido al Trac la netiquette de Grulic (ver: [wiki:LibreBaseNetiquette
+ Netiquette de !LibreBase]).
+
+ Está en un formato geek, áspero, poco amable y técnico, pensado para una
+ lista de soporte técnico. Propongo que lo simplifiquemos, lo traduzcamos a
+ un lenguaje coloquial para humanos y lo adaptemos a nuestras necesidades.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/15#comment:1>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-11 16:13
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+Reglas de convivencia en la lista LibreBase [era "Presentación institucional" deLibreBase para web y gacetillas]
+a mi me vendría genial ;)
++1
+
+
+El 11 de septiembre de 2013 10:21, Dionisio E Alonso (Baco) <
+dalonso@grulic.org.ar> escribió:
+
+> 2013/9/11 Lila Pagola <lilapagola@gmail.com>:
+> > Buenas,
+> >
+> > Me parece que lo faltaría a la regla de los 90kb (que personalmente
+> subiría
+> > un poco) es acompañarla por la comunicación clara, redundante, no
+> enojada y
+>
+> A riesgo de proponer algo de lo que nos vayamos a arrepentir... ¿y si
+> revisamos qué debería mudarse de la Netiquette de GrULiC a la
+> Netiquette de LibreBase en próximas reuniones de LibreBase?
+>
+> --
+> Dionisio
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-11 19:28
+from: nicoecha---@altermundi.net
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] Reglas de convivencia en la lista LibreBase
+El 11/09/13 11:16, Maximiliano Giraldes escribió:>     > A riesgo de proponer algo de lo que nos vayamos a arrepentir... ¿y
+>     > si revisamos qué debería mudarse de la Netiquette de GrULiC a la
+>     > Netiquette de LibreBase en próximas reuniones de LibreBase?
+> 
+> 
+> +1
+> 
+> Una vez que terminemos con las actividades que tenemos para noviembre,
+> voy a tratar de dejar lista una propuesta así la contrastamos con la
+> anterior y podemos discutirla en próximas reuniones.
+>  
+> >     Creo que este debate y sus malentendidos es un síntoma claro de que
+>     necesitamos consensuar la Netiquette para [LibreBase]. Esto es algo
+>     normal en toda lista de correo cuyo tráfico se vuelve relevante (y en
+>     buena hora que así sea, significa que está siendo útil).
+> 
+> 
+> Pulgares arriba!
+>  
+> >     Estoy subiendo al Trac una copia de la Netiquette de Grulic para poder
+>     editarla y adaptarla a LibreBase:
+> >     https://200.16.16.187/cgi-bin/librebase/trac.cgi/wiki/LibreBaseNetiquette
+
+nuevamente sólo una opinión, pero creo que es un error basarse en la
+Netiquette de una lista específicamente técnica.
+
+Es un documento larguísimo, con el que todos los geeks de la lista vamos
+a estar básicamente de acuerdo y los no geeks van a estar más inhibidos
+de escribir.
+
+Si hace falta tener netiquette en esta lista (no estoy convencido, por
+experiencia de otras listas no geeks de mucho tráfico y sin netiquette
+alguna), la haría super corta, con regla nro. 1) Ante la duda sobre
+cualquier regla de esta nettiquete: NO DEJES DE ENVIAR TU CORREO.
+
+Y el resto de las reglas, si de lo que se está hablando es de que poner
+reglas sea un hecho formativo, propondría que sean principalmente las
+personas de perfil menos técnico las que den su opinión inicial y en
+todo caso planteen la necesidad.
+
+abrazos,
+Nico
+
+
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-13 01:06
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #8: InstallFest IES. Coordinación de charlas
+#8: InstallFest IES. Coordinación de charlas-----------------------------+-----------------------
+      Reporter:  mbaldi      |      Owner:  mgiraldes
+          Type:  tarea       |     Status:  new
+      Priority:  bloquea     |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:  3           |
+-----------------------------+-----------------------
+
+Comment (by mgiraldes):
+
+ Confirmada la presentación de Redes Libres por Ale Lamela. Se asignarán
+ horarios una vez confirmado el número final de charlas.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/8#comment:4>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-13 21:01
+from: dalo---@grulic.org.ar
+to: grulic@grulic.org.ar
+subject:  [GRULIC] En el día del programador
+Un equipo de desarrollo de Software Libre argentino:
+
+http://youtu.be/92Hu2EpdhkE
+
+-- 
+Dionisio
+
+
+
+-.-.-:-.-.-
+date: 2013-09-13 21:02
+from: dalo---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  [LibreBase] En el día del programador
+Un equipo de desarrollo de Software Libre argentino:
+
+http://youtu.be/92Hu2EpdhkE
+
+-- 
+Dionisio
+
+
+
+-.-.-:-.-.-
+date: 2013-09-14 20:03
+from: tomasco---@gmail.com
+to: grulic@grulic.org.ar
+subject:  Re: [GRULIC] En el día del programador
+:-D
+
+
+2013/9/13 Dionisio E Alonso (Baco) <dalonso@grulic.org.ar>
+
+> Un equipo de desarrollo de Software Libre argentino:
+>
+> http://youtu.be/92Hu2EpdhkE
+>> --
+> Dionisio
+> --
+> Para cancelar o configurar su suscripción, visite
+> http://mx.grulic.org.ar/list o envíe un email a
+> grulic-request@grulic.org.ar
+>                                          I am the one who is many.
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-16 15:03
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13
+#5: 20130916 Mini InstallFest en Casa13-----------------------------+-------------------------
+      Reporter:  tsempere    |      Owner:  tsempere
+          Type:  tarea       |     Status:  assigned
+      Priority:  mayor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:  installfest
+Parent Tickets:              |
+-----------------------------+-------------------------
+
+Comment (by tsempere):
+
+ Buenos días, llegó el día y ya está toda la gente avisada: seguras, 5
+ máquinas
+
+ Hay una chica (Natacha Altamirano) que rellenó el formulario ayer domingo;
+ le acabo de escribir mensaje para que confirme. Saben si caerá alguien
+ más? conocido? amigo?
+
+ para más detalles:
+ !https://docs.google.com/spreadsheet/ccc?key=0AsUNcK0zTnMidGdDcG9PWkFxOWRvS3h5LU9tbmxtSHc&usp=sharing
+
+ abrazos,Tere
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/5#comment:8>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-16 16:42
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13
+Genial Javier
+y... traé alguna zapatilla por las dudas aunque ya avisé a todas que
+trajesen.
+son solo 6 máquinas, entre amigos ;)
+abrazo
+
+
+El 16 de septiembre de 2013 13:33, Javier Jorge <javierbrk@gmail.com>escribió:
+
+> Yo voy a tratar de pasar a dar una mano (llevo mate). Hace falta alguna
+> otra cosa ? zapatillas ? pen ?
+>
+> Saludos
+> Ing. Javier Alejandro Jorge
+>
+>
+> 2013/9/16 LibreBase <trac@grulic.psi.unc.edu.ar>
+>>> #5: 20130916 Mini InstallFest en Casa13
+>> -----------------------------+-------------------------
+>>       Reporter:  tsempere    |      Owner:  tsempere
+>>           Type:  tarea       |     Status:  assigned
+>>       Priority:  mayor       |  Milestone:
+>>      Component:  component1  |    Version:
+>>     Resolution:              |   Keywords:  installfest
+>> Parent Tickets:              |
+>> -----------------------------+-------------------------
+>>
+>> Comment (by tsempere):
+>>
+>>  Buenos días, llegó el día y ya está toda la gente avisada: seguras, 5
+>>  máquinas
+>>
+>>  Hay una chica (Natacha Altamirano) que rellenó el formulario ayer
+>> domingo;
+>>  le acabo de escribir mensaje para que confirme. Saben si caerá alguien
+>>  más? conocido? amigo?
+>>
+>>  para más detalles:
+>>  !
+>> https://docs.google.com/spreadsheet/ccc?key=0AsUNcK0zTnMidGdDcG9PWkFxOWRvS3h5LU9tbmxtSHc&usp=sharing
+>>
+>>  abrazos,Tere
+>>
+>> --
+>> Ticket URL: <
+>> https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/5#comment:8>
+>> LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+>> Actividades de Cultura Libre en Córdoba
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-16 18:26
+from: sebas---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13
+Hoy puedo ir, nos vemos mas tarde.
+Genial Javier
+y... traé alguna zapatilla por las dudas aunque ya avisé a todas que
+trajesen.
+son solo 6 máquinas, entre amigos ;)
+abrazo
+
+
+El 16 de septiembre de 2013 13:33, Javier Jorge <javierbrk@gmail.com>escribió:
+
+> Yo voy a tratar de pasar a dar una mano (llevo mate). Hace falta alguna
+> otra cosa ? zapatillas ? pen ?
+>
+> Saludos
+> Ing. Javier Alejandro Jorge
+>
+>
+> 2013/9/16 LibreBase <trac@grulic.psi.unc.edu.ar>
+>>> #5: 20130916 Mini InstallFest en Casa13
+>> -----------------------------+-------------------------
+>>       Reporter:  tsempere    |      Owner:  tsempere
+>>           Type:  tarea       |     Status:  assigned
+>>       Priority:  mayor       |  Milestone:
+>>      Component:  component1  |    Version:
+>>     Resolution:              |   Keywords:  installfest
+>> Parent Tickets:              |
+>> -----------------------------+-------------------------
+>>
+>> Comment (by tsempere):
+>>
+>>  Buenos días, llegó el día y ya está toda la gente avisada: seguras, 5
+>>  máquinas
+>>
+>>  Hay una chica (Natacha Altamirano) que rellenó el formulario ayer
+>> domingo;
+>>  le acabo de escribir mensaje para que confirme. Saben si caerá alguien
+>>  más? conocido? amigo?
+>>
+>>  para más detalles:
+>>  !
+>> https://docs.google.com/spreadsheet/ccc?key=0AsUNcK0zTnMidGdDcG9PWkFxOWRvS3h5LU9tbmxtSHc&usp=sharing
+>>
+>>  abrazos,Tere
+>>
+>> --
+>> Ticket URL: <
+>> https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/5#comment:8>
+>> LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+>> Actividades de Cultura Libre en Córdoba
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+_______________________________________________
+LibreBase mailing list
+LibreBase@grulic.org.ar
+https://mx.grulic.org.ar/mailman/listinfo/librebase
+
+
+-.-.-:-.-.-
+date: 2013-09-16 19:39
+from: guanucol---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13
+El día 16 de septiembre de 2013 13:27, Teresa Sempere García
+<teresa.sempere@gmail.com> escribió:
+> Update:
+>
+> 6 máquinas confirmadas.
+
+Tere, sabes cuantos colaboradores ya confirmaron su presencia. Por que
+si hay por lo menos 3 colaboradores se podría cubrir a los asistentes
+(2 PCs por cada colaborador). Consulto ésto por que estoy complicado
+para llegar. De ser menos la cantidad de colaboradores voy pero me
+parece que con los últimos correos se cubriría a todos. Saludos,
+
+Luis
+
+
+> La mayoría de las chicas van a llegar tipo 19.30hs
+> antes, no pueden (trabajan o llegan de otros lados)
+> :)
+>
+>
+> El 16 de septiembre de 2013 12:04, LibreBase <trac@grulic.psi.unc.edu.ar>
+> escribió:
+>>> #5: 20130916 Mini InstallFest en Casa13
+>> -----------------------------+-------------------------
+>>       Reporter:  tsempere    |      Owner:  tsempere
+>>           Type:  tarea       |     Status:  assigned
+>>       Priority:  mayor       |  Milestone:
+>>      Component:  component1  |    Version:
+>>     Resolution:              |   Keywords:  installfest
+>> Parent Tickets:              |
+>> -----------------------------+-------------------------
+>>
+>> Comment (by tsempere):
+>>
+>>  Buenos días, llegó el día y ya está toda la gente avisada: seguras, 5
+>>  máquinas
+>>
+>>  Hay una chica (Natacha Altamirano) que rellenó el formulario ayer
+>> domingo;
+>>  le acabo de escribir mensaje para que confirme. Saben si caerá alguien
+>>  más? conocido? amigo?
+>>
+>>  para más detalles:
+>>
+>> !https://docs.google.com/spreadsheet/ccc?key=0AsUNcK0zTnMidGdDcG9PWkFxOWRvS3h5LU9tbmxtSHc&usp=sharing
+>>
+>>  abrazos,Tere
+>>
+>> --
+>> Ticket URL:
+>> <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/5#comment:8>
+>> LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+>> Actividades de Cultura Libre en Córdoba
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+
+
+
+-- 
+P Antes de imprimir, piense en su responsabilidad y compromiso con el
+MEDIO AMBIENTE
+
+
+
+-.-.-:-.-.-
+date: 2013-09-16 21:03
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13
+Luis, estate tranquilo que creo que vamos a ser bastantes.
+Arrancaremos a partir de las 19.30hs
+beso y gracias
+
+
+El 16 de septiembre de 2013 16:39, Luis Alberto Guanuco <
+guanucoluis@gmail.com> escribió:
+
+> El día 16 de septiembre de 2013 13:27, Teresa Sempere García
+> <teresa.sempere@gmail.com> escribió:
+> > Update:
+> >
+> > 6 máquinas confirmadas.
+>
+> Tere, sabes cuantos colaboradores ya confirmaron su presencia. Por que
+> si hay por lo menos 3 colaboradores se podría cubrir a los asistentes
+> (2 PCs por cada colaborador). Consulto ésto por que estoy complicado
+> para llegar. De ser menos la cantidad de colaboradores voy pero me
+> parece que con los últimos correos se cubriría a todos. Saludos,
+>
+> Luis
+>
+>
+> > La mayoría de las chicas van a llegar tipo 19.30hs
+> > antes, no pueden (trabajan o llegan de otros lados)
+> > :)
+> >
+> >
+> > El 16 de septiembre de 2013 12:04, LibreBase <trac@grulic.psi.unc.edu.ar
+> >
+> > escribió:
+> >> >> #5: 20130916 Mini InstallFest en Casa13
+> >> -----------------------------+-------------------------
+> >>       Reporter:  tsempere    |      Owner:  tsempere
+> >>           Type:  tarea       |     Status:  assigned
+> >>       Priority:  mayor       |  Milestone:
+> >>      Component:  component1  |    Version:
+> >>     Resolution:              |   Keywords:  installfest
+> >> Parent Tickets:              |
+> >> -----------------------------+-------------------------
+> >>
+> >> Comment (by tsempere):
+> >>
+> >>  Buenos días, llegó el día y ya está toda la gente avisada: seguras, 5
+> >>  máquinas
+> >>
+> >>  Hay una chica (Natacha Altamirano) que rellenó el formulario ayer
+> >> domingo;
+> >>  le acabo de escribir mensaje para que confirme. Saben si caerá alguien
+> >>  más? conocido? amigo?
+> >>
+> >>  para más detalles:
+> >>
+> >> !
+> https://docs.google.com/spreadsheet/ccc?key=0AsUNcK0zTnMidGdDcG9PWkFxOWRvS3h5LU9tbmxtSHc&usp=sharing
+> >>
+> >>  abrazos,Tere
+> >>
+> >> --
+> >> Ticket URL:
+> >> <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/5#comment:8>
+> >> LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+> >> Actividades de Cultura Libre en Córdoba
+> >> _______________________________________________
+> >> LibreBase mailing list
+> >> LibreBase@grulic.org.ar
+> >> https://mx.grulic.org.ar/mailman/listinfo/librebase
+> >
+> >
+> >
+> > _______________________________________________
+> > LibreBase mailing list
+> > LibreBase@grulic.org.ar
+> > https://mx.grulic.org.ar/mailman/listinfo/librebase
+> >
+>
+>
+>
+> --
+> P Antes de imprimir, piense en su responsabilidad y compromiso con el
+> MEDIO AMBIENTE
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-16 23:54
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject: Author: LibreBaseDate: 2013-09-16 23:54 UTCCC: librebaseNew-Topics: Re: [LibreBase]
+ #16: Installfest en Colegio Maestro Diehl - Niños Músicos, Re: [LibreBase]
+ [LibreBase]  #16: Installfest en Colegio Maestro Diehl - Niños Músicos
+#16: Installfest en Colegio Maestro Diehl - Niños Músicos------------------------+---------------------------
+ Reporter:  mbaldi      |           Owner:  somebody
+     Type:  tarea       |          Status:  new
+ Priority:  bloquea     |       Milestone:
+Component:  component1  |         Version:
+ Keywords:              |  Parent Tickets:
+------------------------+---------------------------
+ A pedido de Lila, hoy nos visitó Rosana Belcasino y nos contó:
+  * cómo están utilizando Edubuntu en la enseñanza de la escuela primaria y
+ secundaria.
+  * que los alumnos quieren instalar Edubuntu en sus casas
+  * que necesitarían ayuda para un Installfest para alumnos y padres.
+
+ Hay que evaluar la factibilidad de realizar un installfest para dicha
+ escuela/colegio
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/16>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-17 00:06
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #16: Installfest en Colegio Maestro Diehl - Niños Músicos
+#16: Installfest en Colegio Maestro Diehl - Niños Músicos-----------------------------+----------------------
+      Reporter:  mbaldi      |      Owner:  somebody
+          Type:  tarea       |     Status:  new
+      Priority:  bloquea     |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+----------------------
+
+Comment (by mbaldi):
+
+ Rosana nos contó además que:
+  * Tiene apoyo político de las direcciones de la primaria y secundaria.
+  * Tienen un área de informática con personas con conocimiento de Linux
+ tanto para el primario y secundario
+  * Software que utilizan: nos va a pasar una lista completa vía Lila, pero
+ contó que usan Openshot (reemplaza adobe premier), Gimp (en vez de
+ Photoshop), scratch, etc.
+
+ Le dije que en caso de hacerse, debería ser un sábado por la mañana. La
+ idea es hacer un Installfest de Edubuntu 13.04 y enseñarles a particionar
+ para que puedan replicar las instalaciones.
+
+ Quedamos en que ella nos va a avisar cuántos interesados tendrían y si
+ dispondrían de lugar en el Colegio o deberían alquilar el DUI.
+
+ Con esa info nosotros le responderíamos si sería posible y cuándo.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/16#comment:1>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-17 01:22
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13
+#5: 20130916 Mini InstallFest en Casa13------------------------------+-------------------------
+      Reporter:  tsempere     |      Owner:  tsempere
+          Type:  tarea        |     Status:  closed
+      Priority:  mayor        |  Milestone:
+     Component:  component1   |    Version:
+    Resolution:  solucionada  |   Keywords:  installfest
+Parent Tickets:               |
+------------------------------+-------------------------
+Changes (by mbaldi):
+
+ * status:  assigned => closed
+ * resolution:   => solucionada
+
+
+Comment:
+
+ Reporte:
+  * Participaron: lbritos, sserantes, dalonso, lperona, tsempere, mbaldi
+  * Vinieron 6 notebooks y todas con salieron con gnome-ubuntu 13.04
+ funcionando :)
+  * Duración 19:30 - 22:30hs.
+
+ Nos demoramos en arrancar y hubo un par de notebooks que hubo que utilizar
+ parámetros especiales de booteo para que arrancara (una lenovo con
+ nomodeset).
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/5#comment:9>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-17 02:12
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13
+#5: 20130916 Mini InstallFest en Casa13------------------------------+-------------------------
+      Reporter:  tsempere     |      Owner:  tsempere
+          Type:  tarea        |     Status:  closed
+      Priority:  mayor        |  Milestone:
+     Component:  component1   |    Version:
+    Resolution:  solucionada  |   Keywords:  installfest
+Parent Tickets:               |
+------------------------------+-------------------------
+
+Comment (by dalonso):
+
+ Errata:
+
+ * Vinieron 6 notebooks, 5 salieron con gnome-ubuntu 13.04 y una con
+ lubuntu 13.04 funcionando :)
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/5#comment:10>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-17 20:33
+from: ba---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13
+El 16/09/13 22:23, LibreBase escribió:
+> #5: 20130916 Mini InstallFest en Casa13
+> [...]
+>  Reporte:
+>   * Participaron: lbritos, sserantes, dalonso, lperona, tsempere, mbaldi
+
+Fe de erratas: jjorge también estuvo asistiendo desde Librebase.
+(corregido en el Trac)
+
+Saludos,
+
+M.
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-17 20:46
+from: sebas---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #10: Logo de LibreBase
+Si lo vamos a consensuar a través de la lista larguemos ya!. Compartan los
+bocetos y vamos intercambiando opiniones.
+
+Que les parece?
+:)
+
+
+2013/9/17 Teresa Sempere García <teresa.sempere@gmail.com>
+
+> cuándo retomamos esto?
+> como buena diseñadora... funciono mejor con deadline.
+> abrazos
+>
+>
+> El 12 de septiembre de 2013 22:03, LibreBase <trac@grulic.psi.unc.edu.ar>escribió:
+>> #10: Logo de LibreBase
+>> -----------------------------+----------------------
+>>       Reporter:  dalonso     |      Owner:  tsempere
+>>           Type:  tarea       |     Status:  new
+>>       Priority:  bloquea     |  Milestone:
+>>      Component:  component1  |    Version:
+>>     Resolution:              |   Keywords:
+>> Parent Tickets:              |
+>> -----------------------------+----------------------
+>>
+>> Comment (by mgiraldes):
+>>
+>>  Contamos con algunos bocetos en proceso  elaborados entre Tere, Luis y
+>>  Maxi, tanto en color como en ByN:
+>>
+>>  1. Logos de solo texto
+>>
+>>  2. Texto + elemento gráfico (nodos-red)
+>>
+>>  3. Texto + elemento gráfico (logo copyleft)
+>>
+>>  Apenas se encuentren en sus versiones finales, serán compartidos con el
+>>  resto de la lista para su votación.
+>>
+>> --
+>> Ticket URL: <
+>> https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/10#comment:1>
+>> LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+>> Actividades de Cultura Libre en Córdoba
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-17 21:20
+from: ba---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #5: 20130916 Mini InstallFest en Casa13
+Hola Tere,
+
+Respondo a la lista porque me parece que tu conclusión cierra bien el
+ticket (y porque además respondo info extra-ticket :) ).
+
+El 17/09/13 16:10, LibreBase escribió:> #5: 20130916 Mini InstallFest en Casa13
+> ------------------------------+-------------------------
+>       Reporter:  tsempere     |      Owner:  tsempere
+>           Type:  tarea        |     Status:  closed
+>       Priority:  mayor        |  Milestone:
+>      Component:  component1   |    Version:
+>     Resolution:  solucionada  |   Keywords:  installfest
+> Parent Tickets:               |
+> ------------------------------+-------------------------
+> 
+> Comment (by tsempere):
+> 
+>  Buenas gente! :)
+> 
+>  quería decirles que desde ayer y hoy durante toda la mañana, he recibido
+>  diferentes muestras de agradecimiento de parte de las "nuevas" usuarias de
+>  SL ;) están chochas, de momento. Espero no me comiencen a hacer demasiadas
+>  preguntas sobre la interface 13.04 porque la verdad... no tengo ni idea!
+>  ;) si se pone negra la cosa, pienso remitírselas... jejeje
+
+Ok, en todo caso las redirigiremos a donde corresponda :)
+
+Un par de observaciones con la interfaz Gnome 3 del Ubuntu:
+
+1) en la pantalla de login, al elegir el usuario, hay un botón o leyenda
+que te permite cambiar la sesión (interface) a Gnome Classic que es el
+que se usaba antes.
+
+2) si tu compu tiene un Ubuntu 12.04 o superior, podés instalar el
+Gnome-3 desde el "Centro de Software de Ubuntu" con el paquete gnome
+("The Gnome Desktop Environment") y luego elegirlo en el login como en
+el inciso 1).
+
+>  Quería darles las *GRACIAS* a todos los que vinieron, [...]
+
+Yo la pasé muy bien y creo que el clima distendido, propuesto
+originalmente por Luis para la actividad, se cumplió ampliamente.
+
+>  Como "experimento" creo que funcionó; si vemos que surge  más gente que se
+>  va prendiendo... podemos tratar de hacer otro mini - installfest similar
+>  antes de  que termine el año ;)
+
+podemos tratar, pero depende del tiempo disponible de todos.. :)
+
+> de momento... cierro ticket o cómo
+>  hacemos? :P
+
+En realidad, me adelanté y lo cerré antes de tiempo. Fijate que en la
+cabecera (al principio del mensaje) figura "Status: closed".
+
+abrazo,
+
+M.
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-17 23:23
+from: girald---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #8: InstallFest IES. Coordinación de charlas
+Estimada Alejandra:
+
+Ya podés compartir la info sobre el ifest del S. Bolívar con tus 
+colegas, está publicada aquí:
+http://dges.cba.infd.edu.ar/sitio/index.cgi?wAccion=news&wid_news=1172&wid_seccion=28&wid_item=&wid_grupo_news=2
+
+Cualquier duda avisanos, ¿sí?
+
+Un saludo,
+Maxi
+
+El 08/09/13 12:19, alejandra graciela diel escribió:
+> BUENÍSIMO!!!! Gracias gente!!! Ya empiezo a hinchar a los profes para 
+> que vayan y cuando me manden la información oficial los bombardeo con 
+> mails. De esta no se salva nadie!! Jaja...
+> Me alegraron el domingo..Feliz resto del finde para todos y buena semana!!
+>
+>
+> El 7 de septiembre de 2013 12:37, Maximiliano Giraldes 
+> <giraldesm@gmail.com <mailto:giraldesm@gmail.com>> escribió:
+>>     Hola Alejandra, podés invitar también a tus colegas del IPEM, pero
+>     antes de publicarlo por favor esperá a que podamos pasarte  la
+>     info final sobre el installfest; allí va a figurar la data
+>     concreta no solo de los horarios y todo eso, sino también de los
+>     requerimientos previos (de suma importancia).
+>>     En el transcurso de los próximos días vamos a compartir la
+>     gacetilla por acá, mantenete atenta nomás!
+>>     Gracias, saludos
+>     Maxi
+>>     El 05/09/13 22:31, alejandra graciela diel escribió:
+>>     Hola gente!! Quisiera preguntar si cualquiera puede ir al
+>>     installfest del IES Simón Bolívar o si es sólo para estudiantes y
+>>     docentes de la casa. Doy clase en un IPEM y algunos profes están
+>>     interesados en ir para aprender y desasnarse un poco sobre
+>>     Huayra. Yo estaba muy ilusionada y ahora no puedo ir por un viaje
+>>     a BsAs, así que quisiera tener "representantes"...ja. Si la
+>>     respuesta es afirmativa, el lunes publico en el sitio de la
+>>     escuela para que vayan la mayor cantidad posible de profes.
+>>     Saludos a todos!!! Buen finde!!
+>>
+>>>>     El 5 de septiembre de 2013 12:24, Maximiliano Giraldes
+>>     <giraldesm@gmail.com <mailto:giraldesm@gmail.com>> escribió:
+>>>>         Hola nuevamente. En relación al tema charlas para el 28, va a
+>>         ser preciso cerrar el cronograma con la confirmación de los
+>>         temas y disertantes. El esquema inicial propuesto era así:
+>>>>          * Introducción al Software Libre - Política (Edgardo Silvi)
+>>           * Redes Libres (Nico / Jessie)
+>>           * Sistema de aprendizaje y generación de contenidos (Victor)
+>>           * Recursos educativos abiertos (Licenciamiento, etc) (Teresa)
+>>>>         En función de que Nico y Jesica viajan, es necesario
+>>         confirmar si Ale Lamelas puede hacerlo en su lugar.
+>>>>         Ale: no sé si viste el hilo en el que se habló sobre eso,
+>>         ¿vas a poder?
+>>         Leandro: ¿por casualidad vos charlaste algo directamente con Ale?
+>>>>         Por otra parte, se cayó la charla de Víctor (no va a estar
+>>         presente en esa fecha), y también sería útil saber si Tere
+>>         y/o Lila pueden tomar la charla de REA.
+>>>>         Lila: ¿vas a poder participar el 28?
+>>
+>>>>         Aguardo sus comentarios para terminar de definir el esquema
+>>         de charlas y confirmárselo a Marcelo López para la difusión.
+>>>>         Saludos,
+>>>>         Maxi
+>>
+>>>>         El 03/09/13 21:22, LibreBase escribió:
+>>>>             #8: InstallFest IES. Coordinación de charlas
+>>             -----------------------------+-----------------------
+>>                    Reporter:  mbaldi      |  Owner:  mgiraldes
+>>                        Type:  tarea       | Status:  new
+>>                    Priority:  bloquea     |  Milestone:
+>>                   Component:  component1  |  Version:
+>>                  Resolution:              | Keywords:
+>>             Parent Tickets:  3           |
+>>             -----------------------------+-----------------------
+>>>>             Comment (by mbaldi):
+>>>>               nechaniz y jgiudice
+>>              >>             [http://mx.grulic.org.ar/lurker/message/20130827.070830.c0edbe2e.es.html
+>>               avisaron que el 28/9 están de viaje]. Sugieren a Ale
+>>             Lamela o Fernando de
+>>               !AnisacateLibre.
+>>
+>>>>         _______________________________________________
+>>         LibreBase mailing list
+>>         LibreBase@grulic.org.ar <mailto:LibreBase@grulic.org.ar>
+>>         https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>>
+>>
+>>>>     _______________________________________________
+>>     LibreBase mailing list
+>>     LibreBase@grulic.org.ar  <mailto:LibreBase@grulic.org.ar>
+>>     https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>>     _______________________________________________
+>     LibreBase mailing list
+>     LibreBase@grulic.org.ar <mailto:LibreBase@grulic.org.ar>
+>     https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+
+
+
+-.-.-:-.-.-
+date: 2013-09-17 23:45
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #17: 20130928 Instalfest IES SB. Coordinacion
+ taller para usuarios de Huayra
+#17: 20130928 Instalfest IES SB. Coordinacion taller para usuarios de Huayra-----------------------------+--------------------
+      Reporter:  mbaldi      |      Owner:  lrueda
+          Type:  tarea       |     Status:  new
+      Priority:  bloquea     |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:  3           |
+-----------------------------+--------------------
+Changes (by mbaldi):
+
+ * cc: https://200.16.16.187/cgi-
+ bin/librebase/trac.cgi/query?status=!closed&cc=~mflopez@… (added)
+
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/17#comment:1>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 00:14
+from: britosl---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #10: Logo de LibreBase
+en realidad nace de las formas del logo de cultura libre (agrego logo) a la
+que le saque el color y del cual no se el origen, sugiere algunas cosas
+(lila ve "tiro al blanco ) pero honestamente no hay misterio  que resolver,
+solo forma.
+
+
+El 17 de septiembre de 2013 20:59, Dionisio E Alonso (Baco) <
+dalonso@grulic.org.ar> escribió:
+
+> 2013/9/17 luis britos <britosluis@gmail.com>:
+> > van mis últimos bocetos ... a partir del logo multicolor de cultura
+> libre .
+>
+> Me gustan mucho estos últimos 4. Me gustan los colores, me gusta tener
+> las variantes horizontal (para footers) y vertical (para uso normal),
+> y tener negativo para no depender del color de fondo. O sea, que me
+> gustan las 4 variantes :-)
+>
+> ¿Me explicás el dibujo propiamente? Veo la © (<-- rotar 180 grados) de
+> copyleft. Pero ¿qué más hay?
+>
+> saludos,
+> --
+> Dionisio
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+
+
+
+-- 
+hola
+
+
+-.-.-:-.-.-
+date: 2013-09-18 00:25
+from: nicoecha---@altermundi.net
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #6: 20130928 Installfest IES SB. Coordinar
+ Installfest general
+El 17/09/13 20:48, LibreBase escribió:> #6: 20130928 Installfest IES SB. Coordinar Installfest general
+> -----------------------------+----------------------
+>       Reporter:  mbaldi      |      Owner:  dalonso
+>           Type:  tarea       |     Status:  accepted
+>       Priority:  bloquea     |  Milestone:
+>      Component:  component1  |    Version:
+>     Resolution:              |   Keywords:
+> Parent Tickets:  3           |
+> -----------------------------+----------------------
+> Changes (by mbaldi):
+> 
+>  * cc: mflopez@… (added)
+
+Marce no hay forma de que este tipo de mensajes de Trac no lleguen a la
+lista? resultan medio confusos, no?
+
+
+
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 01:20
+from: ba---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #6: 20130928 Installfest IES SB. Coordinar
+ Installfest general
+El 17/09/13 21:26, Nicolás Echániz escribió:> El 17/09/13 20:48, LibreBase escribió:
+>> #6: 20130928 Installfest IES SB. Coordinar Installfest general
+>> -----------------------------+----------------------
+>>       Reporter:  mbaldi      |      Owner:  dalonso
+>>           Type:  tarea       |     Status:  accepted
+>>       Priority:  bloquea     |  Milestone:
+>>      Component:  component1  |    Version:
+>>     Resolution:              |   Keywords:
+>> Parent Tickets:  3           |
+>> -----------------------------+----------------------
+>> Changes (by mbaldi):
+>>
+>>  * cc: mflopez@… (added)
+> 
+> Marce no hay forma de que este tipo de mensajes de Trac no lleguen a la
+> lista? resultan medio confusos, no?
+
+Sip, es confuso. Más si no comento el motivo del cambio (lo puse en el
+ticket "padre", pero no en los subtickets). :(
+
+No estoy seguro si es posible obviar los cambios en "CC:" del ticket sin
+eliminar todos los cambios en las propiedades [1]
+
+Si encuentro un modo, aviso.
+
+abrazo,
+
+M.
+
+[1] http://trac.edgewall.org/wiki/TracNotification
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 01:47
+from: martinezequielmol---@gmail.com
+to: librebase@grulic.org.ar
+subject:  [LibreBase] Participación del CdR en Installfest IES
+Hola a todos, escribo para comentar que, tanto el " *Club de Robotica*  de
+UTN-FRC " como* SLUC* estamos a disposición para colaborar con los eventos
+venideros. Para los que no nos conocen,junto con NIcolas Ignacio
+participamos en la instalación de la *escuela nueva* de Carlos Paz
+mostrando un poco las actividades que realizamos en el campo de la
+robótica.
+
+Por cuestiones de horarios no hemos podido asistir a las reuniones  de
+organización pero sepan que cuentan con el apoyo para colaborar como
+asistentes el día de la instalación en el IES SB.
+
+Desde el *CdR* venimos apoyando y promoviendo el uso de SL  hace ya 4 años
+y compartimos adherentes con la gente de *SLUC*.
+
+Muy buena la movida con Huayra , nos vemos el 28 !
+
+Wiki del Club de Robótica : http://cdr.usla.org.ar/
+
+-- 
+                     Saludos !
+                                                    M . Ezequiel . M
+
+
+-.-.-:-.-.-
+date: 2013-09-18 02:48
+from: dalo---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject: Author: Dionisio E Alonso (Baco)Date: 2013-09-18 02:48 UTCTo: Coordinación y difusión de actividades de Cultura Libre en CórdobaNew-Topics: Re: [LibreBase] [Meta] to geek or not to geek ... Era: #6: 20130928
+ Re: [LibreBase] #6: 20130928 Installfest IES SB. Coordinar
+ Installfest general
+On 17 September 2013 21:26, Nicolás Echániz <nicoechaniz@altermundi.net> wrote:> El 17/09/13 20:48, LibreBase escribió:
+>> #6: 20130928 Installfest IES SB. Coordinar Installfest general
+>> -----------------------------+----------------------
+>>       Reporter:  mbaldi      |      Owner:  dalonso
+>>           Type:  tarea       |     Status:  accepted
+>>       Priority:  bloquea     |  Milestone:
+>>      Component:  component1  |    Version:
+>>     Resolution:              |   Keywords:
+>> Parent Tickets:  3           |
+>> -----------------------------+----------------------
+>> Changes (by mbaldi):
+>>
+>>  * cc: mflopez@… (added)
+>
+> Marce no hay forma de que este tipo de mensajes de Trac no lleguen a la
+> lista? resultan medio confusos, no?
+
+A mí me resulta útil, son parte de los cambios en el ticket y no me
+fuerza a ir periódicamente a visitar el Trac para enterarme de los
+mismos.
+
+Es importante saber si cambia un Dueño o una Prioridad.
+
+saludos,
+-- 
+Dionisio
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 03:21
+from: ba---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #16: Installfest en Colegio Maestro Diehl - Niños Músicos
+El 17/09/13 10:12, alejandra graciela diel escribió:
+> Hola gente!!!
+> Tiro una idea...se podrá hacer una installfest en el Congreso de
+> Ciencias y Tecnologías en la Escuela???? Este año se hace en el Predio
+> Ferial Córdoba y van a ir muuuuuchos docentes y algunos alumnos. Es los
+> días 25, 26 y 27 de setiembre y el profe Marcelo López va a estar presente.
+
+Estamos preparando el Ifest de Huayra para el 28/9 en el IES Simón
+Bolivar, y estamos con cosas pendientes por resolver aún...
+
+Quizás la próxima.
+
+Saludos,
+
+M.
+
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 05:08
+from: nicoecha---@altermundi.net
+to: librebase@grulic.org.ar
+subject: Author: Nicolás EchánizDate: 2013-09-18 05:08 UTCTo: Coordinación y difusión de actividades de Cultura Libre en CórdobaOld-Topics: Re: [LibreBase] #6: 20130928 Installfest IES SB. Coordinar
+ Re: [LibreBase] [Meta] to geek or not to geek ... Era: #6: 20130928
+ Installfest IES SB. Coordinar Installfest general
+El 17/09/13 23:49, Dionisio E Alonso (Baco) escribió:> On 17 September 2013 21:26, Nicolás Echániz <nicoechaniz@altermundi.net> wrote:
+>> El 17/09/13 20:48, LibreBase escribió:
+>>> #6: 20130928 Installfest IES SB. Coordinar Installfest general
+>>> -----------------------------+----------------------
+>>>       Reporter:  mbaldi      |      Owner:  dalonso
+>>>           Type:  tarea       |     Status:  accepted
+>>>       Priority:  bloquea     |  Milestone:
+>>>      Component:  component1  |    Version:
+>>>     Resolution:              |   Keywords:
+>>> Parent Tickets:  3           |
+>>> -----------------------------+----------------------
+>>> Changes (by mbaldi):
+>>>
+>>>  * cc: mflopez@… (added)
+>>
+>> Marce no hay forma de que este tipo de mensajes de Trac no lleguen a la
+>> lista? resultan medio confusos, no?
+> 
+> A mí me resulta útil, son parte de los cambios en el ticket y no me
+> fuerza a ir periódicamente a visitar el Trac para enterarme de los
+> mismos.
+> 
+> Es importante saber si cambia un Dueño o una Prioridad.
+
+seguramente que para vos y varios de nosotros sí, pero creo que ya
+conversamos sobre que este grupo no es de carácter específicamente
+técnico. Imagino a más de una persona que no sabe qué quiere decir
+cuando le llegan estos correos y realmente dudo que sean muchos a los
+que la información les resulta valiosa (excluyéndonos a los geeks de
+siempre...). Cuántos de los subscriptores actuales de la lista tienen
+cuenta en el Trac y lo utilizan regularmente?
+
+como sea, no quiero estar permanentemente en abogado de la mirada
+no-geek, porque la meta-conversación también es tráfico no deseado...
+
+Espero que puedan avisar cuando algo les resulta raro, no se entiende,
+es demasiado técnico, etc., para que la lista no pierda participación
+plural sino más bien crezca.
+Moi, me llamo a silencio sobre estas temáticas :)
+
+
+abrazos!
+Nico
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 18:03
+from: lru---@inti.gob.ar
+to: librebase@grulic.org.ar
+subject:  [LibreBase] Herramientas de Diseño con softwarelibre - Bs.As. 26/Septiembre
+Compañeras/os: les copio la siguiente gacetilla, aunque sea como 
+difusión "muy" general.
+Pero creo recordar alguna consulta a la lista, proveniente de alumnos de 
+las carrenas de diseño y/o cine de Córdoba, en relación a la 
+incorporación de SL?
+Por si le sirve a alguien para tomar contacto...
+Saludos!
+Leandro.
+
+--------------------------------------------------------------------------
+"Herramientas de Diseño con software libre"
+El desafío de los profesionales ante un nuevo paradigma de desarrollo 
+regional
+Lugar: Buenos Aires
+
+El jueves 26 de septiembre a las 10h abordaremos la temática del 
+software libre y el panorama en nuestro país para los profesionales del 
+diseño. A través de esta propuesta se introducirá a la temática como una 
+herramienta potente para el desempeño de profesionales del diseño 
+industrial y la comunicación visual, como así también el rol de la 
+academia y de las asociaciones que agrupan a los profesionales.
+
+La disertación estará a cargo de Claudio Medín, Presidente de la 
+Asociación de Diseñadores en Comunicación Visual de la Provincia de 
+Buenos Aires (ADCV). Claudio es diseñador en Comunicación Visual, 
+Director de Estudio M y profesor adjunto del Taller de Diseño y 
+Comunicación Visual III A en la Facultad de Bellas Artes de la 
+Universidad Nacional de la Plata.
+
+La Charla estará dirigida a diseñadores, responsables de empresas de 
+servicios, cuerpo docente, estudiantes avanzados y demás miembros de la 
+comunidad académica relacionados con el diseño.
+
+26 de septiembre de 10 a 12 h // Acreditación 9.45h
+Auditorio Segemar
+Av. General Paz 5445, San Martín / Edificio 14 / Cómo llegar /
+
+Charla gratuita con inscripción previa
+FORMULARIO DE INSCRIPCIÓN
+diseno@inti.gob.ar
+
+-- 
+Téc. Leandro F. Rueda
+U.E. Cruz del Eje
+Centro Regional Córdoba - INTI
+Calle Alvear y Vicente Olmos
+Ciudad de Cruz del Eje - CP (5280)
+Dpto. Cruz del Eje - Pcia. de Córdoba
+
+Cel. Flota INTI: 0351-15-2420235
+Cel. Personal: 03549-15-631626
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 18:33
+from: lru---@inti.gob.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #16: Installfest en Colegio Maestro Diehl - Niños Músicos
+Suscribo a MBaldi, creo que venimos muy ajustados para llegar al i-fest 
+del 28/Septiembre.
+Estaría muy lindo poder sumarnos al Congreso de Ciencias y Tecnologías 
+de la Escuela, pero de mi parte imposible comprometerme.
+Espero tengamos una próxima oportunidad, saludos!
+Leandro.
+
+
+El 18/09/13 00:21, Marcelo C. Baldi escribió:
+> El 17/09/13 10:12, alejandra graciela diel escribió:
+>    
+>> Hola gente!!!
+>> Tiro una idea...se podrá hacer una installfest en el Congreso de
+>> Ciencias y Tecnologías en la Escuela???? Este año se hace en el Predio
+>> Ferial Córdoba y van a ir muuuuuchos docentes y algunos alumnos. Es los
+>> días 25, 26 y 27 de setiembre y el profe Marcelo López va a estar presente.
+>>      
+> Estamos preparando el Ifest de Huayra para el 28/9 en el IES Simón
+> Bolivar, y estamos con cosas pendientes por resolver aún...
+>
+> Quizás la próxima.
+>
+> Saludos,
+>
+> M.
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>    
+
+-- 
+Téc. Leandro F. Rueda
+U.E. Cruz del Eje
+Centro Regional Córdoba - INTI
+Calle Alvear y Vicente Olmos
+Ciudad de Cruz del Eje - CP (5280)
+Dpto. Cruz del Eje - Pcia. de Córdoba
+
+Cel. Flota INTI: 0351-15-2420235
+Cel. Personal: 03549-15-631626
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 18:40
+from: lru---@inti.gob.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #10: Logo de LibreBase
+Aprovecho este comentario sobre el boceto (cuya imagen que ví en otro 
+mail), y a mí no me termina de gustar ni convencer... creo que no es 
+directo su tradución simbólica a "cultura libre" etc.
+Además me parece demasiado "duro", demasiado abstracto y rígido... yo 
+imaginaba algo más hippie, con lineas dibujadas, algo más figurativo, 
+colores, algo más naif... jejeje. Pero no tengo nada para ofrecer como 
+idea... disculpas.
+Saludos!
+Leandro.
+
+
+El 17/09/13 22:15, luis britos escribió:
+> relajen... solo era un boceto, no recuerdo ni la tipografía que 
+> usaste, ni el tono de verde ... si querés te paso el .svg asi le metes 
+> mano
+>
+>
+> El 17 de septiembre de 2013 21:39, Maximiliano Giraldes 
+> <giraldesm@gmail.com <mailto:giraldesm@gmail.com>> escribió:
+>>     Me encantaron, Luis. Ahí los subí a la wiki junto a mi propuesta
+>     (el infame logo /Córdoba Copyleft/) y a los primeros bocetos de
+>     Tere. A tu primer boceto de los nodos no lo tengo, no sé si
+>     quieren subirlo...
+>>     Lo único que me genera dudas sobre elegir esta última propuesta
+>     tuya es lo que pueda comunicar su elemento gráfico, que aunque
+>     personalmente me guste mucho, no me parece que exprese algo claro
+>     y fácilmente reconocible (a comparación de los nodos o el logo de
+>     copyleft).
+>>     De todas maneras, si optamos por usarlo, yo recomendaría agregarle
+>     "Córdoba" al texto y aumentar el tamaño del círculo para que
+>     coincida con el alto / ancho del bloque de texto, como había hecho
+>     yo en mi versión.
+>>     Pasen y vean, nomás...
+>>     Abrazo,
+>     M.
+>
+>
+>>     El 17/09/13 21:22, Dionisio E Alonso (Baco) escribió:
+>>     2013/9/17 luis britos<britosluis@gmail.com>  <mailto:britosluis@gmail.com>:
+>>            >>>     en realidad nace de las formas del logo de cultura libre (agrego logo) a la
+>>>     que le saque el color y del cual no se el origen, sugiere algunas cosas
+>>>              >>     Copado! Mejor todavía si simboliza exactamente «Cultura Libre». Me
+>>     parece que es la idea que queremos transmitir.
+>>>>     Me gusta.
+>>
+>>            
+>
+>>     _______________________________________________
+>     LibreBase mailing list
+>     LibreBase@grulic.org.ar <mailto:LibreBase@grulic.org.ar>
+>     https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>
+>
+> -- 
+> hola
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>    
+
+-- 
+Téc. Leandro F. Rueda
+U.E. Cruz del Eje
+Centro Regional Córdoba - INTI
+Calle Alvear y Vicente Olmos
+Ciudad de Cruz del Eje - CP (5280)
+Dpto. Cruz del Eje - Pcia. de Córdoba
+
+Cel. Flota INTI: 0351-15-2420235
+Cel. Personal: 03549-15-631626
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 20:20
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+Herramientas de Diseño con softwarelibre - Bs.As. 26/Septiembre
+Sí! Sí!!!
+disculpen, detrás del 1... el 2!
+
+en realidad Gez y Manu vienen a Córdoba en el marco del* VII FESTIVAL
+INTERNACIONAL DE ANIMACIÓN DE CÓRDOBA (ANIMA 2013)* del 10 al 12 de Octubre
+de 2013.
+
+Me convocaron para organizar alguna movida, y bueno, salió un *Seminario
+Producción Audiovisual con Herramientas Libres* ;) será un placer tenerlos
+en casa!!
+
+Ya mandaré más info, porque aun no tengo la programación al completo (sólo
+un flyer en el que nos etiquetaron por twitter; a mi con una cara de loca
+psicópata terrible, y al Gez... cual pirata del Caribe!) :P
+
+Les mantengo al tanto,
+abrazos
+Tere
+
+
+El 18 de septiembre de 2013 17:13, Lila Pagola <lilapagola@gmail.com>escribió:
+
+> De paso, ya que Tere no lo mencionó, en octubre vienen a Córdoba por
+> iniciativa suya, Guillermo Espertino y Manuel Quiñones de Santa Fe, ambos
+> expertos en diseño gráfico, y animación con software libre y estarán dando
+> charlas-taller en el Centro cultural España Córdoba.
+>
+> No sé si ya está publicado el programa y la forma de participar, Tere?
+> Saludos!
+>
+>
+> El 18 de septiembre de 2013 17:07, Teresa Sempere García <
+> teresa.sempere@gmail.com> escribió:
+>
+> gracias Leandro! yo justamente estaré en BsAs así que.... iré! :)
+>>
+>>
+>> El 18 de septiembre de 2013 15:03, Leandro Rueda <lrueda@inti.gob.ar>escribió:
+>>
+>> Compañeras/os: les copio la siguiente gacetilla, aunque sea como difusión
+>>> "muy" general.
+>>> Pero creo recordar alguna consulta a la lista, proveniente de alumnos de
+>>> las carrenas de diseño y/o cine de Córdoba, en relación a la incorporación
+>>> de SL?
+>>> Por si le sirve a alguien para tomar contacto...
+>>> Saludos!
+>>> Leandro.
+>>>
+>>> ------------------------------**------------------------------**
+>>> --------------
+>>> "Herramientas de Diseño con software libre"
+>>> El desafío de los profesionales ante un nuevo paradigma de desarrollo
+>>> regional
+>>> Lugar: Buenos Aires
+>>>
+>>> El jueves 26 de septiembre a las 10h abordaremos la temática del
+>>> software libre y el panorama en nuestro país para los profesionales del
+>>> diseño. A través de esta propuesta se introducirá a la temática como una
+>>> herramienta potente para el desempeño de profesionales del diseño
+>>> industrial y la comunicación visual, como así también el rol de la academia
+>>> y de las asociaciones que agrupan a los profesionales.
+>>>
+>>> La disertación estará a cargo de Claudio Medín, Presidente de la
+>>> Asociación de Diseñadores en Comunicación Visual de la Provincia de Buenos
+>>> Aires (ADCV). Claudio es diseñador en Comunicación Visual, Director de
+>>> Estudio M y profesor adjunto del Taller de Diseño y Comunicación Visual III
+>>> A en la Facultad de Bellas Artes de la Universidad Nacional de la Plata.
+>>>
+>>> La Charla estará dirigida a diseñadores, responsables de empresas de
+>>> servicios, cuerpo docente, estudiantes avanzados y demás miembros de la
+>>> comunidad académica relacionados con el diseño.
+>>>
+>>> 26 de septiembre de 10 a 12 h // Acreditación 9.45h
+>>> Auditorio Segemar
+>>> Av. General Paz 5445, San Martín / Edificio 14 / Cómo llegar /
+>>>
+>>> Charla gratuita con inscripción previa
+>>> FORMULARIO DE INSCRIPCIÓN
+>>> diseno@inti.gob.ar
+>>>
+>>> --
+>>> Téc. Leandro F. Rueda
+>>> U.E. Cruz del Eje
+>>> Centro Regional Córdoba - INTI
+>>> Calle Alvear y Vicente Olmos
+>>> Ciudad de Cruz del Eje - CP (5280)
+>>> Dpto. Cruz del Eje - Pcia. de Córdoba
+>>>
+>>> Cel. Flota INTI: 0351-15-2420235
+>>> Cel. Personal: 03549-15-631626
+>>>
+>>> ______________________________**_________________
+>>> LibreBase mailing list
+>>> LibreBase@grulic.org.ar
+>>> https://mx.grulic.org.ar/**mailman/listinfo/librebase<https://mx.grulic.org.ar/mailman/listinfo/librebase>
+>>>
+>>
+>>
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-18 20:39
+from: nicoecha---@altermundi.net
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #10: Logo de LibreBase
+El 18/09/13 15:40, Leandro Rueda escribió:
+> Aprovecho este comentario sobre el boceto (cuya imagen que ví en otro
+> mail), y a mí no me termina de gustar ni convencer... creo que no es
+> directo su tradución simbólica a "cultura libre" etc.
+> Además me parece demasiado "duro", demasiado abstracto y rígido... yo
+> imaginaba algo más hippie, con lineas dibujadas, algo más figurativo,
+> colores, algo más naif... jejeje. Pero no tengo nada para ofrecer como
+> idea... disculpas.
+
+alguien dijo jipi ?  :P  jaja
+
+acá va mi hermoso boceto de 10 segundos... por si a alguien con mano le
+va la idea y quiere hacer una versión presentable (suficientemente
+abstracta para que no sea "un dibujito").
+
+Las ideas implicadas serían:
+* sembramos cultura libre
+* la cultura libre es bella
+* la cultura libre es mucho más que bits
+* etc.
+
+el logo de AlterMundi.net salió de planteos parecidos a los de Leandro...
+
+
+besos,
+Nico
+
+
+-.-.-:-.-.-
+date: 2013-09-18 20:43
+from: girald---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ Herramientas de Diseño con softwarelibre - Bs.As. 26/Septiembre
+Invitesmolonn a una reunión si ellos pueden!!
+
+Creo que también les puedo conseguir notita radial... no recurro a Lila 
+o Tere como voceras de gráfica libre porque las estoy reservando de 
+comodín para otras cosas ;)
+
+El 18/09/13 17:21, Teresa Sempere García escribió:
+> Sí! Sí!!!
+> disculpen, detrás del 1... el 2!
+>
+> en realidad Gez y Manu vienen a Córdoba en el marco del*VII FESTIVAL 
+> INTERNACIONAL DE ANIMACIÓN DE CÓRDOBA (ANIMA 2013)* del 10 al 12 de 
+> Octubre de 2013.
+>
+> Me convocaron para organizar alguna movida, y bueno, salió un 
+> /Seminario Producción Audiovisual con Herramientas Libres/ ;) será un 
+> placer tenerlos en casa!!
+>
+> Ya mandaré más info, porque aun no tengo la programación al completo 
+> (sólo un flyer en el que nos etiquetaron por twitter; a mi con una 
+> cara de loca psicópata terrible, y al Gez... cual pirata del Caribe!) :P
+>
+> Les mantengo al tanto,
+> abrazos
+> Tere
+>
+>
+> El 18 de septiembre de 2013 17:13, Lila Pagola <lilapagola@gmail.com 
+> <mailto:lilapagola@gmail.com>> escribió:
+>>     De paso, ya que Tere no lo mencionó, en octubre vienen a Córdoba
+>     por iniciativa suya, Guillermo Espertino y Manuel Quiñones de
+>     Santa Fe, ambos expertos en diseño gráfico, y animación con
+>     software libre y estarán dando charlas-taller en el Centro
+>     cultural España Córdoba.
+>>     No sé si ya está publicado el programa y la forma de participar, Tere?
+>     Saludos!
+>
+>>     El 18 de septiembre de 2013 17:07, Teresa Sempere García
+>     <teresa.sempere@gmail.com <mailto:teresa.sempere@gmail.com>>
+>     escribió:
+>>         gracias Leandro! yo justamente estaré en BsAs así que.... iré! :)
+>
+>>         El 18 de septiembre de 2013 15:03, Leandro Rueda
+>         <lrueda@inti.gob.ar <mailto:lrueda@inti.gob.ar>> escribió:
+>>             Compañeras/os: les copio la siguiente gacetilla, aunque
+>             sea como difusión "muy" general.
+>             Pero creo recordar alguna consulta a la lista, proveniente
+>             de alumnos de las carrenas de diseño y/o cine de Córdoba,
+>             en relación a la incorporación de SL?
+>             Por si le sirve a alguien para tomar contacto...
+>             Saludos!
+>             Leandro.
+>>             --------------------------------------------------------------------------
+>             "Herramientas de Diseño con software libre"
+>             El desafío de los profesionales ante un nuevo paradigma de
+>             desarrollo regional
+>             Lugar: Buenos Aires
+>>             El jueves 26 de septiembre a las 10h abordaremos la
+>             temática del software libre y el panorama en nuestro país
+>             para los profesionales del diseño. A través de esta
+>             propuesta se introducirá a la temática como una
+>             herramienta potente para el desempeño de profesionales del
+>             diseño industrial y la comunicación visual, como así
+>             también el rol de la academia y de las asociaciones que
+>             agrupan a los profesionales.
+>>             La disertación estará a cargo de Claudio Medín, Presidente
+>             de la Asociación de Diseñadores en Comunicación Visual de
+>             la Provincia de Buenos Aires (ADCV). Claudio es diseñador
+>             en Comunicación Visual, Director de Estudio M y profesor
+>             adjunto del Taller de Diseño y Comunicación Visual III A
+>             en la Facultad de Bellas Artes de la Universidad Nacional
+>             de la Plata.
+>>             La Charla estará dirigida a diseñadores, responsables de
+>             empresas de servicios, cuerpo docente, estudiantes
+>             avanzados y demás miembros de la comunidad académica
+>             relacionados con el diseño.
+>>             26 de septiembre de 10 a 12 h // Acreditación 9.45h
+>             Auditorio Segemar
+>             Av. General Paz 5445, San Martín / Edificio 14 / Cómo llegar /
+>>             Charla gratuita con inscripción previa
+>             FORMULARIO DE INSCRIPCIÓN
+>             diseno@inti.gob.ar <mailto:diseno@inti.gob.ar>
+>>             -- 
+>             Téc. Leandro F. Rueda
+>             U.E. Cruz del Eje
+>             Centro Regional Córdoba - INTI
+>             Calle Alvear y Vicente Olmos
+>             Ciudad de Cruz del Eje - CP (5280)
+>             Dpto. Cruz del Eje - Pcia. de Córdoba
+>>             Cel. Flota INTI: 0351-15-2420235
+>             Cel. Personal: 03549-15-631626
+>>             _______________________________________________
+>             LibreBase mailing list
+>             LibreBase@grulic.org.ar <mailto:LibreBase@grulic.org.ar>
+>             https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>>         _______________________________________________
+>         LibreBase mailing list
+>         LibreBase@grulic.org.ar <mailto:LibreBase@grulic.org.ar>
+>         https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>>     _______________________________________________
+>     LibreBase mailing list
+>     LibreBase@grulic.org.ar <mailto:LibreBase@grulic.org.ar>
+>     https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 20:48
+from: girald---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #16: Installfest en Colegio Maestro Diehl - Niños Músicos
+Totalmente, queda para la próxima por tratarse de un evento tan cercano 
+y de semejante envergadura (congreso de tres días con "muuuuchos 
+docentes"!!)
+
+Vayamos preparandonlonn para el año que viene muchachos!
+
+
+El 18/09/13 15:33, Leandro Rueda escribió:
+> Suscribo a MBaldi, creo que venimos muy ajustados para llegar al 
+> i-fest del 28/Septiembre.
+> Estaría muy lindo poder sumarnos al Congreso de Ciencias y Tecnologías 
+> de la Escuela, pero de mi parte imposible comprometerme.
+> Espero tengamos una próxima oportunidad, saludos!
+> Leandro.
+>
+>
+> El 18/09/13 00:21, Marcelo C. Baldi escribió:
+>> El 17/09/13 10:12, alejandra graciela diel escribió:
+>>> Hola gente!!!
+>>> Tiro una idea...se podrá hacer una installfest en el Congreso de
+>>> Ciencias y Tecnologías en la Escuela???? Este año se hace en el Predio
+>>> Ferial Córdoba y van a ir muuuuuchos docentes y algunos alumnos. Es los
+>>> días 25, 26 y 27 de setiembre y el profe Marcelo López va a estar 
+>>> presente.
+>> Estamos preparando el Ifest de Huayra para el 28/9 en el IES Simón
+>> Bolivar, y estamos con cosas pendientes por resolver aún...
+>>
+>> Quizás la próxima.
+>>
+>> Saludos,
+>>
+>> M.
+>>
+>>
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 21:01
+from: girald---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] [Meta] to geek or not to geek ... Era: #6: 20130928
+ Installfest IES SB. Coordinar Installfest general
+
+El 18/09/13 02:09, Nicolás Echániz escribió:
+> Moi, me llamo a silencio sobre estas temáticas :)
+>
+¡No, por favor! Que necesitamos contar con tu frecuente y saludable 
+llamada al debate...
+
+
+
+-.-.-:-.-.-
+date: 2013-09-18 21:31
+from: girald---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #10: Logo de LibreBase
+
+El 18/09/13 17:09, Sebastian Serantes escribió:
+>
+> Mi opinión es que el logo debería ser lo mas simple posible, ya que 
+> eso nos va a permitir aplicarlo en cualquier tipo de medio, si 
+> utilizamos filetes muy finos o demasiado color nos va a complicar la 
+> vida, por tipo de impresión o costos de impresión.
+>
+Muy cierto! Y por lo menos ya estamos de acuerdo en la tipografía y la 
+composición general del logo.
+
+También me gusta mucho lo que dice Nico de "sembrar cultura libre" o "la 
+cultura libre no son solo bits".
+Estoy pensando en como expresarlo... una hojita con la c de copyleft? 
+una semilla?
+
+Estaría bueno poder comunicar eso.
+
+
+
+-.-.-:-.-.-
+date: 2013-09-19 01:22
+from: britosl---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+Herramientas de Diseño con softwarelibre - Bs.As. 26/Septiembre
+buenísimo.. de paso les cuento a toda la lsta que ya convocamos al taller
+de edición de video con SL en casa 13 ... arrancamos el 30 y hay una muy
+buena recepción en los convocados.   saludos  luis
+
+
+El 18 de septiembre de 2013 17:44, Maximiliano Giraldes <giraldesm@gmail.com
+> escribió:
+
+>  Invitesmolonn a una reunión si ellos pueden!!
+>
+> Creo que también les puedo conseguir notita radial... no recurro a Lila o
+> Tere como voceras de gráfica libre porque las estoy reservando de comodín
+> para otras cosas ;)
+>
+> El 18/09/13 17:21, Teresa Sempere García escribió:
+>
+>  Sí! Sí!!!
+> disculpen, detrás del 1... el 2!
+>
+> en realidad Gez y Manu vienen a Córdoba en el marco del* VII FESTIVAL
+> INTERNACIONAL DE ANIMACIÓN DE CÓRDOBA (ANIMA 2013)* del 10 al 12 de
+> Octubre de 2013.
+>
+> Me convocaron para organizar alguna movida, y bueno, salió un *Seminario
+> Producción Audiovisual con Herramientas Libres* ;) será un placer
+> tenerlos en casa!!
+>
+> Ya mandaré más info, porque aun no tengo la programación al completo (sólo
+> un flyer en el que nos etiquetaron por twitter; a mi con una cara de loca
+> psicópata terrible, y al Gez... cual pirata del Caribe!) :P
+>
+>  Les mantengo al tanto,
+> abrazos
+> Tere
+>
+>
+> El 18 de septiembre de 2013 17:13, Lila Pagola <lilapagola@gmail.com>escribió:
+>
+>>  De paso, ya que Tere no lo mencionó, en octubre vienen a Córdoba por
+>> iniciativa suya, Guillermo Espertino y Manuel Quiñones de Santa Fe, ambos
+>> expertos en diseño gráfico, y animación con software libre y estarán dando
+>> charlas-taller en el Centro cultural España Córdoba.
+>>
+>>  No sé si ya está publicado el programa y la forma de participar, Tere?
+>>  Saludos!
+>>
+>>
+>> El 18 de septiembre de 2013 17:07, Teresa Sempere García <
+>> teresa.sempere@gmail.com> escribió:
+>>
+>>  gracias Leandro! yo justamente estaré en BsAs así que.... iré! :)
+>>>
+>>>
+>>> El 18 de septiembre de 2013 15:03, Leandro Rueda <lrueda@inti.gob.ar>escribió:
+>>>
+>>> Compañeras/os: les copio la siguiente gacetilla, aunque sea como
+>>>> difusión "muy" general.
+>>>> Pero creo recordar alguna consulta a la lista, proveniente de alumnos
+>>>> de las carrenas de diseño y/o cine de Córdoba, en relación a la
+>>>> incorporación de SL?
+>>>> Por si le sirve a alguien para tomar contacto...
+>>>> Saludos!
+>>>> Leandro.
+>>>>
+>>>>
+>>>> --------------------------------------------------------------------------
+>>>> "Herramientas de Diseño con software libre"
+>>>> El desafío de los profesionales ante un nuevo paradigma de desarrollo
+>>>> regional
+>>>> Lugar: Buenos Aires
+>>>>
+>>>> El jueves 26 de septiembre a las 10h abordaremos la temática del
+>>>> software libre y el panorama en nuestro país para los profesionales del
+>>>> diseño. A través de esta propuesta se introducirá a la temática como una
+>>>> herramienta potente para el desempeño de profesionales del diseño
+>>>> industrial y la comunicación visual, como así también el rol de la academia
+>>>> y de las asociaciones que agrupan a los profesionales.
+>>>>
+>>>> La disertación estará a cargo de Claudio Medín, Presidente de la
+>>>> Asociación de Diseñadores en Comunicación Visual de la Provincia de Buenos
+>>>> Aires (ADCV). Claudio es diseñador en Comunicación Visual, Director de
+>>>> Estudio M y profesor adjunto del Taller de Diseño y Comunicación Visual III
+>>>> A en la Facultad de Bellas Artes de la Universidad Nacional de la Plata.
+>>>>
+>>>> La Charla estará dirigida a diseñadores, responsables de empresas de
+>>>> servicios, cuerpo docente, estudiantes avanzados y demás miembros de la
+>>>> comunidad académica relacionados con el diseño.
+>>>>
+>>>> 26 de septiembre de 10 a 12 h // Acreditación 9.45h
+>>>> Auditorio Segemar
+>>>> Av. General Paz 5445, San Martín / Edificio 14 / Cómo llegar /
+>>>>
+>>>> Charla gratuita con inscripción previa
+>>>> FORMULARIO DE INSCRIPCIÓN
+>>>> diseno@inti.gob.ar
+>>>>
+>>>> --
+>>>> Téc. Leandro F. Rueda
+>>>> U.E. Cruz del Eje
+>>>> Centro Regional Córdoba - INTI
+>>>> Calle Alvear y Vicente Olmos
+>>>> Ciudad de Cruz del Eje - CP (5280)
+>>>> Dpto. Cruz del Eje - Pcia. de Córdoba
+>>>>
+>>>> Cel. Flota INTI: 0351-15-2420235
+>>>> Cel. Personal: 03549-15-631626
+>>>>
+>>>> _______________________________________________
+>>>> LibreBase mailing list
+>>>> LibreBase@grulic.org.ar
+>>>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> LibreBase mailing list
+>>> LibreBase@grulic.org.ar
+>>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>
+>>>
+>>
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>>
+>
+>
+> _______________________________________________
+> LibreBase mailing listLibreBase@grulic.org.arhttps://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-- 
+hola
+
+
+-.-.-:-.-.-
+date: 2013-09-19 02:22
+from: dalo---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] [Meta] to geek or not to geek ... Era: #6: 20130928
+ Installfest IES SB. Coordinar Installfest general
+2013/9/18 Nicolás Echániz <nicoechaniz@altermundi.net>:
+>>
+>> Es importante saber si cambia un Dueño o una Prioridad.
+>
+> seguramente que para vos y varios de nosotros sí, pero creo que ya
+> conversamos sobre que este grupo no es de carácter específicamente
+> técnico. Imagino a más de una persona que no sabe qué quiere decir
+> cuando le llegan estos correos y realmente dudo que sean muchos a los
+
+Pero pueden aprender che, les podemos enseñar también. No es una
+cuestón «étnica geek» el entender este tipo de reportes. El tema es
+que siendo una lista que además nos sirve para la coordinación de
+actividades del grupo, necesitamos de herramientas que nos ayuden, y
+el reporte de las herramientas no es al vicio.
+
+> como sea, no quiero estar permanentemente en abogado de la mirada
+> no-geek, porque la meta-conversación también es tráfico no deseado...
+
++5
+
+> Espero que puedan avisar cuando algo les resulta raro, no se entiende,
+> es demasiado técnico, etc., para que la lista no pierda participación
+> plural sino más bien crezca.
+
+Pero más vale, ¿por qué crees que pasaría lo contrario? Siempre la
+herramienta es el diálogo, y desde el diálogo acordar lo mejor para
+las partes.
+
+-- 
+Dionisio
+
+
+
+-.-.-:-.-.-
+date: 2013-09-19 12:20
+from: javier---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] [Meta] to geek or not to geek ... Era: #6: 20130928
+ Installfest IES SB. Coordinar Installfest general
+Que opinan los "no geeks" ??? o porque no opinan los "no geeks" ?
+
+Saludos
+Ing. Javier Alejandro Jorge
+
+
+2013/9/18 Dionisio E Alonso (Baco) <dalonso@grulic.org.ar>
+
+> 2013/9/18 Nicolás Echániz <nicoechaniz@altermundi.net>:
+> >>
+> >> Es importante saber si cambia un Dueño o una Prioridad.
+> >
+> > seguramente que para vos y varios de nosotros sí, pero creo que ya
+> > conversamos sobre que este grupo no es de carácter específicamente
+> > técnico. Imagino a más de una persona que no sabe qué quiere decir
+> > cuando le llegan estos correos y realmente dudo que sean muchos a los
+>
+> Pero pueden aprender che, les podemos enseñar también. No es una
+> cuestón «étnica geek» el entender este tipo de reportes. El tema es
+> que siendo una lista que además nos sirve para la coordinación de
+> actividades del grupo, necesitamos de herramientas que nos ayuden, y
+> el reporte de las herramientas no es al vicio.
+>
+> > como sea, no quiero estar permanentemente en abogado de la mirada
+> > no-geek, porque la meta-conversación también es tráfico no deseado...
+>
+> +5
+>
+> > Espero que puedan avisar cuando algo les resulta raro, no se entiende,
+> > es demasiado técnico, etc., para que la lista no pierda participación
+> > plural sino más bien crezca.
+>
+> Pero más vale, ¿por qué crees que pasaría lo contrario? Siempre la
+> herramienta es el diálogo, y desde el diálogo acordar lo mejor para
+> las partes.
+>
+> --
+> Dionisio
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-19 14:37
+from: anasol.alder---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] [Meta] to geek or not to geek ... Era: #6: 20130928
+ Installfest IES SB. Coordinar Installfest general
+Acá mando mi opinión no-geek como fiel lectora silenciosa de la lista. Los
+tickets son algo misterioso que, si leo con atención, voy entendiendo más o
+menos qué se dice, y me pongo contenta cuando dice "status-->closed".
+Será porque no estoy participando en las actividades o por mi condición
+no-geek, pero todavía parece algo complejo interactuar con un ticket, es
+como la diferencia entre aprender a leer un diario en noruego y mandar
+mails en noruego...
+
+Saludos, Ana
+
+
+El 19 de septiembre de 2013 10:57, Maximiliano Giraldes <giraldesm@gmail.com
+> escribió:
+
+>  Como integrante del ala no-geek de LB opino que los tickets, aunque no
+> enteramente imprescindibles, son muy útiles e importantes a fines
+> organizativos del grupo.
+>
+> Yo estoy a favor de seguir trabajando de esta manera, tranquilo de saber
+> de que si a alguien se le presentan dudas siempre puede escribir a la lista
+> para consultarlo o discutirlo, y que a quien no le interesen, simplemente
+> hacer caso omiso de esos mails.
+>
+> No sé porqué no opinarán los demás, ¿tal vez por parecer una discusión
+> geek?
+>
+> Saludos,
+> Maxi
+>
+>
+> El 19/09/13 09:20, Javier Jorge escribió:
+>
+> Que opinan los "no geeks" ??? o porque no opinan los "no geeks" ?
+>
+> Saludos
+> Ing. Javier Alejandro Jorge
+>
+>
+> 2013/9/18 Dionisio E Alonso (Baco) <dalonso@grulic.org.ar>
+>
+>> 2013/9/18 Nicolás Echániz <nicoechaniz@altermundi.net>:
+>> >>
+>> >> Es importante saber si cambia un Dueño o una Prioridad.
+>> >
+>> > seguramente que para vos y varios de nosotros sí, pero creo que ya
+>> > conversamos sobre que este grupo no es de carácter específicamente
+>> > técnico. Imagino a más de una persona que no sabe qué quiere decir
+>> > cuando le llegan estos correos y realmente dudo que sean muchos a los
+>>
+>>  Pero pueden aprender che, les podemos enseñar también. No es una
+>> cuestón «étnica geek» el entender este tipo de reportes. El tema es
+>> que siendo una lista que además nos sirve para la coordinación de
+>> actividades del grupo, necesitamos de herramientas que nos ayuden, y
+>> el reporte de las herramientas no es al vicio.
+>>
+>> > como sea, no quiero estar permanentemente en abogado de la mirada
+>> > no-geek, porque la meta-conversación también es tráfico no deseado...
+>>
+>>  +5
+>>
+>> > Espero que puedan avisar cuando algo les resulta raro, no se entiende,
+>> > es demasiado técnico, etc., para que la lista no pierda participación
+>> > plural sino más bien crezca.
+>>
+>>  Pero más vale, ¿por qué crees que pasaría lo contrario? Siempre la
+>> herramienta es el diálogo, y desde el diálogo acordar lo mejor para
+>> las partes.
+>>
+>> --
+>> Dionisio
+>>  _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>
+>
+>
+> _______________________________________________
+> LibreBase mailing listLibreBase@grulic.org.arhttps://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-19 14:58
+from: martinezequielmol---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] [Meta] to geek or not to geek ... Era: #6: 20130928
+ Installfest IES SB. Coordinar Installfest general
+Por ahí son molestos cuando hay mucha actividad,  en el sentido de que
+llegan Muchos, pero es bastante organizado para trabajar y responsabilizar
+tareas.
+Sí bien no estoy participando activamente estoy a favor de los tickets!
+El sep 19, 2013 11:38 a.m., "Ana Sol Alderete" <anasol.alderete@gmail.com>
+escribió:
+
+> Acá mando mi opinión no-geek como fiel lectora silenciosa de la lista. Los
+> tickets son algo misterioso que, si leo con atención, voy entendiendo más o
+> menos qué se dice, y me pongo contenta cuando dice "status-->closed".
+> Será porque no estoy participando en las actividades o por mi condición
+> no-geek, pero todavía parece algo complejo interactuar con un ticket, es
+> como la diferencia entre aprender a leer un diario en noruego y mandar
+> mails en noruego...
+>
+> Saludos, Ana
+>
+>
+> El 19 de septiembre de 2013 10:57, Maximiliano Giraldes <
+> giraldesm@gmail.com> escribió:
+>
+>>  Como integrante del ala no-geek de LB opino que los tickets, aunque no
+>> enteramente imprescindibles, son muy útiles e importantes a fines
+>> organizativos del grupo.
+>>
+>> Yo estoy a favor de seguir trabajando de esta manera, tranquilo de saber
+>> de que si a alguien se le presentan dudas siempre puede escribir a la lista
+>> para consultarlo o discutirlo, y que a quien no le interesen, simplemente
+>> hacer caso omiso de esos mails.
+>>
+>> No sé porqué no opinarán los demás, ¿tal vez por parecer una discusión
+>> geek?
+>>
+>> Saludos,
+>> Maxi
+>>
+>>
+>> El 19/09/13 09:20, Javier Jorge escribió:
+>>
+>> Que opinan los "no geeks" ??? o porque no opinan los "no geeks" ?
+>>
+>> Saludos
+>> Ing. Javier Alejandro Jorge
+>>
+>>
+>> 2013/9/18 Dionisio E Alonso (Baco) <dalonso@grulic.org.ar>
+>>
+>>> 2013/9/18 Nicolás Echániz <nicoechaniz@altermundi.net>:
+>>> >>
+>>> >> Es importante saber si cambia un Dueño o una Prioridad.
+>>> >
+>>> > seguramente que para vos y varios de nosotros sí, pero creo que ya
+>>> > conversamos sobre que este grupo no es de carácter específicamente
+>>> > técnico. Imagino a más de una persona que no sabe qué quiere decir
+>>> > cuando le llegan estos correos y realmente dudo que sean muchos a los
+>>>
+>>>  Pero pueden aprender che, les podemos enseñar también. No es una
+>>> cuestón «étnica geek» el entender este tipo de reportes. El tema es
+>>> que siendo una lista que además nos sirve para la coordinación de
+>>> actividades del grupo, necesitamos de herramientas que nos ayuden, y
+>>> el reporte de las herramientas no es al vicio.
+>>>
+>>> > como sea, no quiero estar permanentemente en abogado de la mirada
+>>> > no-geek, porque la meta-conversación también es tráfico no deseado...
+>>>
+>>>  +5
+>>>
+>>> > Espero que puedan avisar cuando algo les resulta raro, no se entiende,
+>>> > es demasiado técnico, etc., para que la lista no pierda participación
+>>> > plural sino más bien crezca.
+>>>
+>>>  Pero más vale, ¿por qué crees que pasaría lo contrario? Siempre la
+>>> herramienta es el diálogo, y desde el diálogo acordar lo mejor para
+>>> las partes.
+>>>
+>>> --
+>>> Dionisio
+>>>  _______________________________________________
+>>> LibreBase mailing list
+>>> LibreBase@grulic.org.ar
+>>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>
+>>
+>>
+>>
+>> _______________________________________________
+>> LibreBase mailing listLibreBase@grulic.org.arhttps://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>>
+>>
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-19 15:59
+from: giudicejes---@altermundi.net
+to: librebase@grulic.org.ar
+subject:  [LibreBase] Tickets
+Tal vez sería cómodo para los que no participamos en las actividades de 
+los tickets cotidianamente pero queremos estar al tanto de lo que sucede 
+para poder participar cuando se pueda, que haya otra lista solo para 
+tickets (estoy atajando los zapatazos).
+Creo que de esta manera las convocatorias, consultas organizativas, 
+solicitud de aportes pasan por esta lista, y el que necesita seguir al 
+día los tickets se suma una segunda lista específica para eso.
+
+Es muy engorroso?
+
+
+
+-.-.-:-.-.-
+date: 2013-09-19 16:30
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #10: Logo de LibreBase
+yo voy a traducir la idea hippie de Nico
+
+me gusta lo de sembrar y difundir... es lo que estamos haciendo <3
+
+más: si apareciese el copyright, pienso que tendría que ser muy sutil ;)
+
+hoy no tengo mucho tiempo para diseñar, pero trato de hacer algo antes del
+finde y pasarlo! :)
+de cualquier forma, no nos apresuremos con las elecciones, porfa...
+crear un buen logo es un proceso lento ;) no por hacer/decidir algo rápido
+y corriendo (que no nos convenza del todo, a todos) vamos a ser mejores
+
+abrazos
+
+
+El 19 de septiembre de 2013 11:08, Maximiliano Giraldes <giraldesm@gmail.com
+> escribió:
+
+> Sí, estamos de acuerdo en eso, pero más allá de las cuestiones específicas
+> sobre licencias (donde sabemos que el copyleft no es completamente
+> representativo), la pregunta acá es cómo hacer para comunicarle de modo
+> claro y sintético a través de un elemento gráfico cuál es la propuesta y/o
+> el ámbito de trabajo de LB a alguien que no sepa demasiado -o casi nada-
+> sobre el tema... Sin recurrir a los clásicos logos de copyleft, con nodos o
+> a un Tux; ahí está el desafío.
+>
+> Tal vez la propuesta de Luis sea acertada y un tanto más original, pero me
+> sugiere algo demasiado técnico. No sé si suavizando el logo con algún
+> elemento botánico como un brote o algo así pueda andar mejor... No lo sé.
+>
+> ¡Ayuda, diseñadores!
+>
+>
+>
+> El 18/09/13 18:40, Dionisio E Alonso (Baco) escribió:
+>
+>  2013/9/18 Maximiliano Giraldes <giraldesm@gmail.com>:
+>>
+>>> Estoy pensando en como expresarlo... una hojita con la c de copyleft? una
+>>> semilla?
+>>>
+>> ¿Queremos seguir pegados a la C de copyleft? El otro día en la reunión
+>> llegamos a que libertad, así como se promueve en las 4 libertades es
+>> más que copyleft, copyleft es sólo una familia de licencias. No es por
+>> tirar abajo ideas, pero yo veo el logo de copyleft y me imagino que es
+>> lo mismo que reemplazarlo por el logo de la GPLv3; y eso es más chico
+>> en libertad, es libre, pero más chico.
+>>
+>> mis -2¢,
+>>
+>
+> ______________________________**_________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/**mailman/listinfo/librebase<https://mx.grulic.org.ar/mailman/listinfo/librebase>
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-19 17:45
+from: dalo---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] Tickets
+2013/9/19 Giudice Jesica <giudicejesica@altermundi.net>:
+> Tal vez sería cómodo para los que no participamos en las actividades de los
+> tickets cotidianamente pero queremos estar al tanto de lo que sucede para
+> poder participar cuando se pueda, que haya otra lista solo para tickets
+> (estoy atajando los zapatazos).
+> Creo que de esta manera las convocatorias, consultas organizativas,
+> solicitud de aportes pasan por esta lista, y el que necesita seguir al día
+> los tickets se suma una segunda lista específica para eso.
+>
+> Es muy engorroso?
+
+No, no es engorroso, pero limita el acceso a la información. En mi
+experiencia personal esto ya pasó en GrULiC. Una lista para
+administración y la lista oficial al lado. Resultó en un montón de
+gente quejándose que no podían participar porque los temas
+administrativos se trataban a espaldas de ellos en otras listas que
+desconocían. O catalogando de elitista a los miembros de GrULiC (y ese
+es un calificativo que me tuve que aguantar muchas veces hacia mi
+persona) porque para entrar en ciertos círculos de información y
+participación había que recorrer demasiado camino. No es que la otra
+lista era recontra secreta, pero requería de asistir a las reuniones
+para que te inviten; un mínimo de compromiso.
+
+Esto se charló en las primeras reuniones de LibreBase y por eso se
+decidió hacer una sóla lista. No se le oculta nada a nadie, ni
+siquiera involuntariamente.
+
+A *mí* personalmente, me parece que si hay información que sobra se
+puede filtrar; mientras que si hay información que falta, primero te
+tenés que enterar que te está faltando y después te enojás porque no
+te tienen en cuenta.
+
+Con una sola lista estamos todos informados. Es más pluralista y
+fomenta la participación.
+
+Por cierto, los mails de Trac vienen de
+``trac@grulic.psi.unc.edu.ar``, si alguien no los quiere leer, es
+cuestión de crear un filtro en su cliente de correos que a todos los
+que vengan con ``from:trac@grulic.psi.unc.edu.ar`` los mueva al
+tachito de basura y listo; cuando querés comenzar a participar de las
+decisiones técnicas desactivás el filtro. Siempre el mango de la
+sartén agarrado por vos :-)
+
+saludos,
+-- 
+Dionisio E Alonso <dalonso@grulic.org.ar>
+Grupo de Usuarios de Software Libre de Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-20 00:37
+from: ba---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] Tickets
+El 19/09/13 18:22, Maximiliano Giraldes escribió:
+> 
+> El 19/09/13 14:45, Dionisio E Alonso (Baco) escribió:
+>>
+>> Por cierto, los mails de Trac vienen de
+>> ``trac@grulic.psi.unc.edu.ar``, si alguien no los quiere leer, es
+>> cuestión de crear un filtro en su cliente de correos que a todos los
+>> que vengan con ``from:trac@grulic.psi.unc.edu.ar`` los mueva al
+>> tachito de basura y listo; cuando querés comenzar a participar de las
+>> decisiones técnicas desactivás el filtro. Siempre el mango de la
+>> sartén agarrado por vos :-)
+> 
+> Es buena esa!
+
+Quizás podríamos agregar una explicación de esto en el mensaje de
+bienvenida de la lista (o la netiquette), para que los usuarios conozcan
+los mecanismos de filtrado de mensajes del Trac.
+
+Saludos,
+
+M.
+
+
+
+-.-.-:-.-.-
+date: 2013-09-20 15:48
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #15: Normas de convivencia para la lista
+#15: Normas de convivencia para la lista-----------------------------+-----------------------
+      Reporter:  mgiraldes   |      Owner:  mgiraldes
+          Type:  tarea       |     Status:  new
+      Priority:  menor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+-----------------------
+
+Comment (by mgiraldes):
+
+ Incluir aclaración sobre la posibilidad de filtrar los mensajes desde
+ [mailto:trac@grulic.psi.unc.edu.ar] sobre los tickets de Trac.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/15#comment:2>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-20 16:41
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject: Author: LibreBaseDate: 2013-09-20 16:41 UTCCC: librebaseNew-Topics: Re: [LibreBase]
+ #19: Migración a SL para programade radio online "Prefiero mi arte", Re: [LibreBase]
+ #19: Migración a SL para programade radio online "Prefiero mi arte", Re: [LibreBase]
+ [LibreBase]  #19: Migración a SL para programa de radio online "Prefiero mi arte"
+#19: Migración a SL para programa de radio online "Prefiero mi arte"------------------------+----------------------------
+ Reporter:  mgiraldes   |           Owner:  mgiraldes
+     Type:  tarea       |          Status:  new
+ Priority:  menor       |       Milestone:
+Component:  component1  |         Version:
+ Keywords:              |  Parent Tickets:
+------------------------+----------------------------
+ Nos contactaron desde el programa PMA para agendar entrevista sobre
+ cultura libre y el trabajo de LB, además de consultarnos por una posible
+ migración de las herramientas que usan para transmitir a SL
+
+ http://www.prefieromiarte.com.ar/
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/19>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-21 16:03
+from: girald---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #19: Migración a SL para programa de radio online "Prefiero mi arte"
+Pero claro mujer, si ya estás agendada frente al micrófono!
+
+El 20/09/13 14:16, Teresa Sempere García escribió:
+> genial
+> me sumo! ;)
+>
+>
+> El 20 de septiembre de 2013 13:42, LibreBase 
+> <trac@grulic.psi.unc.edu.ar <mailto:trac@grulic.psi.unc.edu.ar>> escribió:
+>>     #19: Migración a SL para programa de radio online "Prefiero mi arte"
+>     ------------------------+----------------------------
+>      Reporter:  mgiraldes   |           Owner:  mgiraldes
+>          Type:  tarea       |          Status:  new
+>      Priority:  menor       |       Milestone:
+>     Component:  component1  |         Version:
+>      Keywords:              |  Parent Tickets:
+>     ------------------------+----------------------------
+>      Nos contactaron desde el programa PMA para agendar entrevista sobre
+>      cultura libre y el trabajo de LB, además de consultarnos por una
+>     posible
+>      migración de las herramientas que usan para transmitir a SL
+>>     http://www.prefieromiarte.com.ar/
+>>     --
+>     Ticket URL:
+>     <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/19>
+>     LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+>     Actividades de Cultura Libre en Córdoba
+>     _______________________________________________
+>     LibreBase mailing list
+>     LibreBase@grulic.org.ar <mailto:LibreBase@grulic.org.ar>
+>     https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+
+
+
+-.-.-:-.-.-
+date: 2013-09-21 16:44
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+#19: Migración a SL para programa de radio online "Prefiero mi arte"
+El 21 de septiembre de 2013 13:03, Maximiliano Giraldes <giraldesm@gmail.com
+> escribió:
+
+>  Pero claro mujer, si ya estás agendada frente al micrófono!
+>
+:-O
+
+;)
+
+:*
+
+>
+> El 20/09/13 14:16, Teresa Sempere García escribió:
+>
+> genial
+> me sumo! ;)
+>
+>
+> El 20 de septiembre de 2013 13:42, LibreBase <trac@grulic.psi.unc.edu.ar>escribió:
+>>> #19: Migración a SL para programa de radio online "Prefiero mi arte"
+>> ------------------------+----------------------------
+>>  Reporter:  mgiraldes   |           Owner:  mgiraldes
+>>      Type:  tarea       |          Status:  new
+>>  Priority:  menor       |       Milestone:
+>> Component:  component1  |         Version:
+>>  Keywords:              |  Parent Tickets:
+>> ------------------------+----------------------------
+>>  Nos contactaron desde el programa PMA para agendar entrevista sobre
+>>  cultura libre y el trabajo de LB, además de consultarnos por una posible
+>>  migración de las herramientas que usan para transmitir a SL
+>>
+>>  http://www.prefieromiarte.com.ar/
+>>
+>> --
+>> Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/19>
+>> LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+>> Actividades de Cultura Libre en Córdoba
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>
+>
+>
+> _______________________________________________
+> LibreBase mailing listLibreBase@grulic.org.arhttps://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-21 16:48
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] [Meta] to geek or not to geek ... Era: #6: 20130928
+ Installfest IES SB. Coordinar Installfest general
+Hola!
+la verdad... yo ya no se qué soy :P
+en comparación con algunos de uds sería una no-geek
+pero en comparación con mucha de la gente que conozco... soy una geek
+
+como diría mi abuela: "todo se pega menos la hermosura"! ;) jijiji
+
+a mi no me molestan los tickets; si bien es cierto que agobian un poco
+cuando llegan todos de golpe... sirven para sistematizar el laburo y
+mantenerlo ordenado :P
+
+to geek o no to geek, eh ahí la cuestión!!!
+FELIZ DÍA DE LA PRIMAVERAAAAAAAAAAAAAAAAAAAAAA!!!
+
+
+
+El 19 de septiembre de 2013 11:59, Ezequiel Molina <
+martinezequielmolina@gmail.com> escribió:
+
+> Por ahí son molestos cuando hay mucha actividad,  en el sentido de que
+> llegan Muchos, pero es bastante organizado para trabajar y responsabilizar
+> tareas.
+> Sí bien no estoy participando activamente estoy a favor de los tickets!
+> El sep 19, 2013 11:38 a.m., "Ana Sol Alderete" <anasol.alderete@gmail.com>
+> escribió:
+>
+>  Acá mando mi opinión no-geek como fiel lectora silenciosa de la lista.
+>> Los tickets son algo misterioso que, si leo con atención, voy entendiendo
+>> más o menos qué se dice, y me pongo contenta cuando dice "status-->closed".
+>> Será porque no estoy participando en las actividades o por mi condición
+>> no-geek, pero todavía parece algo complejo interactuar con un ticket, es
+>> como la diferencia entre aprender a leer un diario en noruego y mandar
+>> mails en noruego...
+>>
+>> Saludos, Ana
+>>
+>>
+>> El 19 de septiembre de 2013 10:57, Maximiliano Giraldes <
+>> giraldesm@gmail.com> escribió:
+>>
+>>>  Como integrante del ala no-geek de LB opino que los tickets, aunque no
+>>> enteramente imprescindibles, son muy útiles e importantes a fines
+>>> organizativos del grupo.
+>>>
+>>> Yo estoy a favor de seguir trabajando de esta manera, tranquilo de saber
+>>> de que si a alguien se le presentan dudas siempre puede escribir a la lista
+>>> para consultarlo o discutirlo, y que a quien no le interesen, simplemente
+>>> hacer caso omiso de esos mails.
+>>>
+>>> No sé porqué no opinarán los demás, ¿tal vez por parecer una discusión
+>>> geek?
+>>>
+>>> Saludos,
+>>> Maxi
+>>>
+>>>
+>>> El 19/09/13 09:20, Javier Jorge escribió:
+>>>
+>>> Que opinan los "no geeks" ??? o porque no opinan los "no geeks" ?
+>>>
+>>> Saludos
+>>> Ing. Javier Alejandro Jorge
+>>>
+>>>
+>>> 2013/9/18 Dionisio E Alonso (Baco) <dalonso@grulic.org.ar>
+>>>
+>>>> 2013/9/18 Nicolás Echániz <nicoechaniz@altermundi.net>:
+>>>> >>
+>>>> >> Es importante saber si cambia un Dueño o una Prioridad.
+>>>> >
+>>>> > seguramente que para vos y varios de nosotros sí, pero creo que ya
+>>>> > conversamos sobre que este grupo no es de carácter específicamente
+>>>> > técnico. Imagino a más de una persona que no sabe qué quiere decir
+>>>> > cuando le llegan estos correos y realmente dudo que sean muchos a los
+>>>>
+>>>>  Pero pueden aprender che, les podemos enseñar también. No es una
+>>>> cuestón «étnica geek» el entender este tipo de reportes. El tema es
+>>>> que siendo una lista que además nos sirve para la coordinación de
+>>>> actividades del grupo, necesitamos de herramientas que nos ayuden, y
+>>>> el reporte de las herramientas no es al vicio.
+>>>>
+>>>> > como sea, no quiero estar permanentemente en abogado de la mirada
+>>>> > no-geek, porque la meta-conversación también es tráfico no deseado...
+>>>>
+>>>>  +5
+>>>>
+>>>> > Espero que puedan avisar cuando algo les resulta raro, no se entiende,
+>>>> > es demasiado técnico, etc., para que la lista no pierda participación
+>>>> > plural sino más bien crezca.
+>>>>
+>>>>  Pero más vale, ¿por qué crees que pasaría lo contrario? Siempre la
+>>>> herramienta es el diálogo, y desde el diálogo acordar lo mejor para
+>>>> las partes.
+>>>>
+>>>> --
+>>>> Dionisio
+>>>>  _______________________________________________
+>>>> LibreBase mailing list
+>>>> LibreBase@grulic.org.ar
+>>>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>>
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> LibreBase mailing listLibreBase@grulic.org.arhttps://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> LibreBase mailing list
+>>> LibreBase@grulic.org.ar
+>>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>
+>>>
+>>
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-21 17:11
+from: girald---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #19: Migración a SL para programa de radio online "Prefiero mi arte"
+Sí, lo charlamos con ellos el mismo día que pasemos por allá para la 
+entrevista. Vos también tenés que estar Luis!
+
+Obviamente pueden sumarse también todos los que quieran venir, el lugar 
+es bien grande y siempre hay gente acompañando la transmisión (se 
+transmite desde la Casa de Pepino en el paseo de las artes). El único 
+posible limitante es la cantidad de microfónos en la mesa, porque no 
+creo que podamos salir más de dos o tres al aire...
+
+El programa sale los martes de 22 a 00 hs.
+http://prefieromiarte.com.ar/
+
+
+
+
+El 21/09/13 07:09, luis britos escribió:
+> buenísimo.. hay mucho que hacer en el área comunicación. deberíamos 
+> agendar una reunión con ellos .luis
+>
+>
+> El 20 de septiembre de 2013 14:16, Teresa Sempere García 
+> <teresa.sempere@gmail.com <mailto:teresa.sempere@gmail.com>> escribió:
+>>     genial
+>     me sumo! ;)
+>
+>>     El 20 de septiembre de 2013 13:42, LibreBase
+>     <trac@grulic.psi.unc.edu.ar <mailto:trac@grulic.psi.unc.edu.ar>>
+>     escribió:
+>>         #19: Migración a SL para programa de radio online "Prefiero mi
+>         arte"
+>         ------------------------+----------------------------
+>          Reporter:  mgiraldes   |           Owner:  mgiraldes
+>              Type:  tarea       |          Status:  new
+>          Priority:  menor       |       Milestone:
+>         Component:  component1  |         Version:
+>          Keywords:              |  Parent Tickets:
+>         ------------------------+----------------------------
+>          Nos contactaron desde el programa PMA para agendar entrevista
+>         sobre
+>          cultura libre y el trabajo de LB, además de consultarnos por
+>         una posible
+>          migración de las herramientas que usan para transmitir a SL
+>>         http://www.prefieromiarte.com.ar/
+>>         --
+>         Ticket URL:
+>         <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/19>
+>         LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+>         Actividades de Cultura Libre en Córdoba
+>         _______________________________________________
+>         LibreBase mailing list
+>         LibreBase@grulic.org.ar <mailto:LibreBase@grulic.org.ar>
+>         https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>>     _______________________________________________
+>     LibreBase mailing list
+>     LibreBase@grulic.org.ar <mailto:LibreBase@grulic.org.ar>
+>     https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+>
+>
+> -- 
+> hola
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+
+
+
+-.-.-:-.-.-
+date: 2013-09-21 23:45
+from: lru---@inti.gob.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #17: 20130928 Instalfest IES SB. Coordinacion
+ taller para usuarios de Huayra
+Marce, listo, gracias! Pude descargar el listado de mails, y les estaré 
+enviando una copia de la gacetilla de difusión para invitarlos del 
+I-fest del 28/Sept.
+Saludos!
+Leandro.
+
+
+
+El 20/09/13 10:29, LibreBase escribió:> #17: 20130928 Instalfest IES SB. Coordinacion taller para usuarios de Huayra
+> -----------------------------+--------------------
+>        Reporter:  mbaldi      |      Owner:  lrueda
+>            Type:  tarea       |     Status:  new
+>        Priority:  bloquea     |  Milestone:
+>       Component:  component1  |    Version:
+>      Resolution:              |   Keywords:
+> Parent Tickets:  3           |
+> -----------------------------+--------------------
+>
+> Comment (by mbaldi):
+>
+>   A pedido de lrueda subo al Trac la lista de [attachment:inscriptos-huayra-
+>   flisol2013.ods:wiki:Flisol2013 inscriptos para Huayra en el Flisol 2013].
+>   Notar que la lista de los que efectivamente se registraron durante el
+>   evento la tiene Marcelo Lopez.
+>
+>    
+
+-- 
+Téc. Leandro F. Rueda
+U.E. Cruz del Eje
+Centro Regional Córdoba - INTI
+Calle Alvear y Vicente Olmos
+Ciudad de Cruz del Eje - CP (5280)
+Dpto. Cruz del Eje - Pcia. de Córdoba
+
+Cel. Flota INTI: 0351-15-2420235
+Cel. Personal: 03549-15-631626
+
+
+
+
+-.-.-:-.-.-
+date: 2013-09-22 03:03
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #10: Logo de LibreBase
+#10: Logo de LibreBase-----------------------------+----------------------
+      Reporter:  dalonso     |      Owner:  tsempere
+          Type:  tarea       |     Status:  new
+      Priority:  bloquea     |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+----------------------
+
+Old description:
+
+> Crear un logo para LibreBase
+
+New description:
+
+ Crear un logo para !LibreBase
+
+ Ref: [wiki:LogosLibreBase Bocetos Logo]
+
+--
+
+Comment (by mbaldi):
+
+ Anoté en la descripción de este ticket la referencia a la página del wiki
+ donde Maxi subió los otros bocetos. También puse una referencia en dicha
+ página hacia este ticket.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/10#comment:4>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-22 04:38
+from: sebas---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #10: Logo de LibreBase
+Grande Tere!! Va tomando forma.
+El sep 22, 2013 12:15 a.m., "Marcelo C. Baldi" <baldi@grulic.org.ar>
+escribió:
+
+> El 21/09/13 22:34, LibreBase escribió:
+> >
+> > Comment (by tsempere):
+> >
+> >  Basándome en la idea de Nico, hice algunos bocetillos "primaverales"
+>
+> Para los que no tienen acceso al Trac, Tere también subió las imágenes a:
+>
+> https://docs.google.com/file/d/0B8UNcK0zTnMia1NEek91Yy16VG8/edit?pli=1
+>
+> Saludos,
+>
+> M.
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+
+
+-.-.-:-.-.-
+date: 2013-09-24 00:07
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #20: IES Mariano Moreno: installfest de Huayra
+#20: IES Mariano Moreno: installfest de Huayra-----------------------------+-----------------------
+      Reporter:  mbaldi      |      Owner:  mvallejos
+          Type:  tarea       |     Status:  new
+      Priority:  menor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+-----------------------
+
+Comment (by mbaldi):
+
+ Marcelo Lopez avisa que las netbooks entregadas no fueron hermanadas y por
+ lo tanto pueden bloquearse a mitad de la instalación y es
+ contraproducente.
+
+ Conviene esperar a que se solucione ese tema y luego elegir el momento
+ para la instalación. Nos avisan.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/20#comment:1>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-24 00:09
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #9: Reuniones LibreBase
+#9: Reuniones LibreBase-----------------------------+--------------------
+      Reporter:  mbaldi      |      Owner:  mbaldi
+          Type:  tarea       |     Status:  new
+      Priority:  mayor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+--------------------
+
+Comment (by mbaldi):
+
+ Reunión 201300923
+
+  * asistentes: dalonso, lpagola, lbritos, vallejos, mgiraldes, Monica
+ Francettic (Directora Simón Bolivar), mlopez, gmollo, Nicolás Dávila
+ (ndavila), mbordone, mbaldi, tsempere.
+  * duración: 19:30hs- 21:30hs
+
+ próxima reunión: 7/10.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/9#comment:4>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-09-24 00:45
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #8: 20130928 InstallFest IES SB. Coordinación de charlas
+#8: 20130928 InstallFest IES SB. Coordinación de charlas-----------------------------+-----------------------
+      Reporter:  mbaldi      |      Owner:  mgiraldes
+          Type:  tarea       |     Status:  new
+      Priority:  bloquea     |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:  3           |
+-----------------------------+-----------------------
+
+Comment (by mgiraldes):
+
+ Esquema de charlas confirmado:
+ Introducción al software libre (Edgardo Silvi y Maximiliano     Giraldes)
+      Redes inalámbricas libres y comunitarias (Alejandro Lamela)
+      Recursos Educativos Abiertos (Lila Pagola)
+
+ Duración aproximada: 60'
+
+ Se dispone de proyector.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/8#comment:6>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-10-07 20:38
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+Herramientas de Diseño con softwarelibre - Bs.As. 26/Septiembre
+Gracias! :)
+qué bien que pusieron la dirección de gráfica libre! estoy #chocha porque
+yo estuve en esa charla para justamente meter la cuchara e informar un
+poquito acerca de nuestra actividad :P
+
+
+El 7 de octubre de 2013 09:14, Javier Jorge <javierbrk@gmail.com> escribió:
+
+> Les copio la nota que salio sobre esto
+> http://www.inti.gob.ar/noticias/innovacionDesarrollo/softwarelibre.htm
+>
+> Saludos
+> Ing. Javier Alejandro Jorge
+>
+>
+> 2013/9/18 luis britos <britosluis@gmail.com>
+>
+>> buenísimo.. de paso les cuento a toda la lsta que ya convocamos al taller
+>> de edición de video con SL en casa 13 ... arrancamos el 30 y hay una muy
+>> buena recepción en los convocados.   saludos  luis
+>>
+>>
+>> El 18 de septiembre de 2013 17:44, Maximiliano Giraldes <
+>> giraldesm@gmail.com> escribió:
+>>
+>>  Invitesmolonn a una reunión si ellos pueden!!
+>>>
+>>> Creo que también les puedo conseguir notita radial... no recurro a Lila
+>>> o Tere como voceras de gráfica libre porque las estoy reservando de comodín
+>>> para otras cosas ;)
+>>>
+>>> El 18/09/13 17:21, Teresa Sempere García escribió:
+>>>
+>>>  Sí! Sí!!!
+>>> disculpen, detrás del 1... el 2!
+>>>
+>>> en realidad Gez y Manu vienen a Córdoba en el marco del* VII FESTIVAL
+>>> INTERNACIONAL DE ANIMACIÓN DE CÓRDOBA (ANIMA 2013)* del 10 al 12 de
+>>> Octubre de 2013.
+>>>
+>>> Me convocaron para organizar alguna movida, y bueno, salió un *Seminario
+>>> Producción Audiovisual con Herramientas Libres* ;) será un placer
+>>> tenerlos en casa!!
+>>>
+>>> Ya mandaré más info, porque aun no tengo la programación al completo
+>>> (sólo un flyer en el que nos etiquetaron por twitter; a mi con una cara de
+>>> loca psicópata terrible, y al Gez... cual pirata del Caribe!) :P
+>>>
+>>>  Les mantengo al tanto,
+>>> abrazos
+>>> Tere
+>>>
+>>>
+>>> El 18 de septiembre de 2013 17:13, Lila Pagola <lilapagola@gmail.com>escribió:
+>>>
+>>>>  De paso, ya que Tere no lo mencionó, en octubre vienen a Córdoba por
+>>>> iniciativa suya, Guillermo Espertino y Manuel Quiñones de Santa Fe, ambos
+>>>> expertos en diseño gráfico, y animación con software libre y estarán dando
+>>>> charlas-taller en el Centro cultural España Córdoba.
+>>>>
+>>>>  No sé si ya está publicado el programa y la forma de participar, Tere?
+>>>>  Saludos!
+>>>>
+>>>>
+>>>> El 18 de septiembre de 2013 17:07, Teresa Sempere García <
+>>>> teresa.sempere@gmail.com> escribió:
+>>>>
+>>>>  gracias Leandro! yo justamente estaré en BsAs así que.... iré! :)
+>>>>>
+>>>>>
+>>>>> El 18 de septiembre de 2013 15:03, Leandro Rueda <lrueda@inti.gob.ar>escribió:
+>>>>>
+>>>>> Compañeras/os: les copio la siguiente gacetilla, aunque sea como
+>>>>>> difusión "muy" general.
+>>>>>> Pero creo recordar alguna consulta a la lista, proveniente de alumnos
+>>>>>> de las carrenas de diseño y/o cine de Córdoba, en relación a la
+>>>>>> incorporación de SL?
+>>>>>> Por si le sirve a alguien para tomar contacto...
+>>>>>> Saludos!
+>>>>>> Leandro.
+>>>>>>
+>>>>>>
+>>>>>> --------------------------------------------------------------------------
+>>>>>> "Herramientas de Diseño con software libre"
+>>>>>> El desafío de los profesionales ante un nuevo paradigma de desarrollo
+>>>>>> regional
+>>>>>> Lugar: Buenos Aires
+>>>>>>
+>>>>>> El jueves 26 de septiembre a las 10h abordaremos la temática del
+>>>>>> software libre y el panorama en nuestro país para los profesionales del
+>>>>>> diseño. A través de esta propuesta se introducirá a la temática como una
+>>>>>> herramienta potente para el desempeño de profesionales del diseño
+>>>>>> industrial y la comunicación visual, como así también el rol de la academia
+>>>>>> y de las asociaciones que agrupan a los profesionales.
+>>>>>>
+>>>>>> La disertación estará a cargo de Claudio Medín, Presidente de la
+>>>>>> Asociación de Diseñadores en Comunicación Visual de la Provincia de Buenos
+>>>>>> Aires (ADCV). Claudio es diseñador en Comunicación Visual, Director de
+>>>>>> Estudio M y profesor adjunto del Taller de Diseño y Comunicación Visual III
+>>>>>> A en la Facultad de Bellas Artes de la Universidad Nacional de la Plata.
+>>>>>>
+>>>>>> La Charla estará dirigida a diseñadores, responsables de empresas de
+>>>>>> servicios, cuerpo docente, estudiantes avanzados y demás miembros de la
+>>>>>> comunidad académica relacionados con el diseño.
+>>>>>>
+>>>>>> 26 de septiembre de 10 a 12 h // Acreditación 9.45h
+>>>>>> Auditorio Segemar
+>>>>>> Av. General Paz 5445, San Martín / Edificio 14 / Cómo llegar /
+>>>>>>
+>>>>>> Charla gratuita con inscripción previa
+>>>>>> FORMULARIO DE INSCRIPCIÓN
+>>>>>> diseno@inti.gob.ar
+>>>>>>
+>>>>>> --
+>>>>>> Téc. Leandro F. Rueda
+>>>>>> U.E. Cruz del Eje
+>>>>>> Centro Regional Córdoba - INTI
+>>>>>> Calle Alvear y Vicente Olmos
+>>>>>> Ciudad de Cruz del Eje - CP (5280)
+>>>>>> Dpto. Cruz del Eje - Pcia. de Córdoba
+>>>>>>
+>>>>>> Cel. Flota INTI: 0351-15-2420235
+>>>>>> Cel. Personal: 03549-15-631626
+>>>>>>
+>>>>>> _______________________________________________
+>>>>>> LibreBase mailing list
+>>>>>> LibreBase@grulic.org.ar
+>>>>>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>>>>
+>>>>>
+>>>>>
+>>>>> _______________________________________________
+>>>>> LibreBase mailing list
+>>>>> LibreBase@grulic.org.ar
+>>>>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>>>
+>>>>>
+>>>>
+>>>> _______________________________________________
+>>>> LibreBase mailing list
+>>>> LibreBase@grulic.org.ar
+>>>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>>
+>>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> LibreBase mailing listLibreBase@grulic.org.arhttps://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>
+>>>
+>>>
+>>> _______________________________________________
+>>> LibreBase mailing list
+>>> LibreBase@grulic.org.ar
+>>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>>
+>>>
+>>
+>>
+>> --
+>> hola
+>>
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-10-07 22:05
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] Mermelada
+jejeje
+aquella mermelada ya pasó a mejor vida, pero me consta que la Meli está en
+casa13 con "otra" igual que yo le tengo que pagar :P (porque aquella...
+viajó a buenos aires el fin de semana pasado!!) :P
+vayan comprando criollossssss
+
+
+
+El 7 de octubre de 2013 18:51, Dionisio E Alonso (Baco) <
+dalonso@grulic.org.ar> escribió:
+
+> Tere,
+>
+> Si podés llevá la mermelada que nos regalaron, a la reunión. Así
+> compramos unos criollos y merendamos eso :-)
+>
+> saludos,
+> --
+> Dionisio
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+
+
+-.-.-:-.-.-
+date: 2013-10-07 22:18
+from: alegrad---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] Mermelada
+Hola chicos!! Hoy no puedo llegarme. Avisen si hay reunión el 14. Buena
+jornada para todos!
+El 07/10/2013 19:06, "Teresa Sempere García" <teresa.sempere@gmail.com>
+escribió:
+
+> jejeje
+> aquella mermelada ya pasó a mejor vida, pero me consta que la Meli está en
+> casa13 con "otra" igual que yo le tengo que pagar :P (porque aquella...
+> viajó a buenos aires el fin de semana pasado!!) :P
+> vayan comprando criollossssss
+>
+>
+>
+> El 7 de octubre de 2013 18:51, Dionisio E Alonso (Baco) <
+> dalonso@grulic.org.ar> escribió:
+>
+>> Tere,
+>>
+>> Si podés llevá la mermelada que nos regalaron, a la reunión. Así
+>> compramos unos criollos y merendamos eso :-)
+>>
+>> saludos,
+>> --
+>> Dionisio
+>> _______________________________________________
+>> LibreBase mailing list
+>> LibreBase@grulic.org.ar
+>> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>>
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-10-07 23:31
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #16: Installfest en Colegio Maestro Diehl - Niños Músicos
+#16: Installfest en Colegio Maestro Diehl - Niños Músicos-----------------------------+----------------------
+      Reporter:  mbaldi      |      Owner:  somebody
+          Type:  tarea       |     Status:  new
+      Priority:  menor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+----------------------
+Changes (by mbaldi):
+
+ * priority:  bloquea => menor
+
+
+Comment:
+
+ mgiraldes avisa que lpagola va a proponer a las autoridades del Diehl
+ dejarlo para el año que viene (tipo comienzo del año lectivo: tipo
+ mediados de marzo
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/16#comment:2>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-10-07 23:34
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #12: Calendario para LibreBase
+#12: Calendario para LibreBase-----------------------------+--------------------
+      Reporter:  mbaldi      |      Owner:  mbaldi
+          Type:  tarea       |     Status:  new
+      Priority:  mayor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+--------------------
+
+Comment (by mbaldi):
+
+ en lugar de instalar un servidor específico para el calendario, vamos a
+ esperar a tener instalado owncloud y usar su propio calendario.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/12#comment:3>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-10-07 23:47
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #8: 20130928 InstallFest IES SB. Coordinación de charlas
+#8: 20130928 InstallFest IES SB. Coordinación de charlas-----------------------------+-----------------------
+      Reporter:  mbaldi      |      Owner:  mgiraldes
+          Type:  tarea       |     Status:  new
+      Priority:  bloquea     |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:  3           |
+-----------------------------+-----------------------
+
+Comment (by mgiraldes):
+
+ Por falta de asistencia de público al aula específica de charlas, las
+ mismas se trasladaron al auditorio para realizarse posteriormente al
+ installfest (que finalizó hacia las 12 hs. aprox.). Por razones de tiempo,
+ se omitió la charla de introducción política al SL, en función de que
+ antes del ifest hubo una charla similar de parte de dalonso. Como la
+ charla de introducción a Huayra se demoró por problemas con el proyector,
+ tampoco pudo incluírse la charla sobre redes libres con Ale Lamela, quien
+ cedió el espacio a lpagola para que desarrolle su charla sobre REA en la
+ media hora total restante (la que tuvo excelente recepción de parte de los
+ asistentes). Se evaluó la posible integración a futuro de las charlas con
+ el espacio principal de ifest.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/8#comment:7>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-10-07 23:50
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #15: Normas de convivencia para la lista
+#15: Normas de convivencia para la lista-----------------------------+-----------------------
+      Reporter:  mgiraldes   |      Owner:  mgiraldes
+          Type:  tarea       |     Status:  new
+      Priority:  menor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+-----------------------
+
+Comment (by mbaldi):
+
+ En la reunión de hoy se decidió que hay que:
+  * limpiar la netiquette de grulic y simplificarlo
+  * el que quiera ir ayudando, puede empezar en el wiki
+  * cuando esté listo lo aprobamos en una reunión de Librebase
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/15#comment:3>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-10-08 13:31
+from: ba---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] Mermelada
+El 07/10/13 19:05, Teresa Sempere García escribió:
+> jejeje
+> aquella mermelada ya pasó a mejor vida, pero me consta que la Meli está
+> en casa13 con "otra" igual que yo le tengo que pagar :P (porque
+> aquella... viajó a buenos aires el fin de semana pasado!!) :P
+> vayan comprando criollossssss
+
+Muy rica la mermelada (y los criollos). Así da gusto hacer mini-ifest
+para amigos/as :)
+
+abrazos,
+
+M.
+
+
+
+
+
+-.-.-:-.-.-
+date: 2013-10-09 00:15
+from: ba---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  [LibreBase] Fwd: Fotos_IES_SB
+Buenas,
+
+Reenvío un mensaje de Ezequiel que quedó en moderación por tamaño
+superior al límite de la lista de correo.
+
+La foto adjuntada la subí en:
+
+http://grulic.org.ar/fotos/index.py/otros_eventos/ifest_SimonBolivar
+
+Si quieren subir más fotos allí, contactense con Dionisio o conmigo para
+coordinar (al menos hasta que tengamos funcionado el OwnCloud :) )
+
+Saludos,
+
+M.
+
+P.S: subí allí también las que mandó Edgardo.
+
+> Asunto: Fotos_IES_SB
+> De: Ezequiel Molina <martinezequielmolina@gmail.com>
+> Fecha: 08/10/13 13:41
+> A: Coordinación y difusión de actividades de Cultura Libre en Córdoba <librebase@grulic.org.ar>
+> 
+> Tarde pero llegaron, acá dejo las fotos que saqué .
+> 
+> 
+> > -- 
+>                      Saludos !                             
+>                                                  M . Ezequiel . M  
+> Attached file: IMG_1172.JPG
+
+
+
+-.-.-:-.-.-
+date: 2013-10-09 23:30
+from: analaura.alm---@gmail.com
+to: librebase@grulic.org.ar
+subject:  [LibreBase] Tejiendo redes
+Hola che,
+Las acciones de Maxi Giraldes dieron sus frutos. El boletín de la
+ECI<http://www.eci.unc.edu.ar/boletin/339-servicio-de-noticias?utm_source=emailcampaign377&utm_medium=phpList&utm_content=HTMLemail&utm_campaign=339+%7C+Servicio+de+Noticias>difundió
+el seminario de herramientas libres del ANIMA Fest (Ver sección
+"Cursos,Seminarios y Talleres).
+Saludos,
+
+Anitalmada
+@anitalmada
+Cel.: 0351-156789757
+
+
+-.-.-:-.-.-
+date: 2013-10-10 14:23
+from: teresa.semp---@gmail.com
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] Tejiendo redes
+clap clap clap
+
+si ya lo decía yo... que este chico, *vale un Potosí!*
+:P
+
+pd. hoy. Maxi, me acordaba de aquella primera reunión preparatoria de
+FLISoL a la que te uniste. Aquella que fue en la Biblio de los
+trabajadores. Que apresuradamente te trataba de poner al día de "cómo
+estaba viniendo la mano para que no te asustases" ;) Que tu tenías tus
+dudas, de cómo hacer para sumarte... para integrarte. SOS GROSO. Menos mal
+que no te dejamos escapar, amigo. Aquello fue el comienzo... de una bonita
+amistad :P
+wiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiwiiiiwiiiiiiiiiiiiiiiwiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
+
+
+El 9 de octubre de 2013 20:31, Ana Laura Almada
+<analaura.almada@gmail.com>escribió:
+
+> Hola che,
+> Las acciones de Maxi Giraldes dieron sus frutos. El boletín de la ECI<http://www.eci.unc.edu.ar/boletin/339-servicio-de-noticias?utm_source=emailcampaign377&utm_medium=phpList&utm_content=HTMLemail&utm_campaign=339+%7C+Servicio+de+Noticias>difundió el seminario de herramientas libres del ANIMA Fest (Ver sección
+> "Cursos,Seminarios y Talleres).
+> Saludos,
+>
+> Anitalmada
+> @anitalmada
+> Cel.: 0351-156789757
+>
+>
+> _______________________________________________
+> LibreBase mailing list
+> LibreBase@grulic.org.ar
+> https://mx.grulic.org.ar/mailman/listinfo/librebase
+>
+>
+
+
+-.-.-:-.-.-
+date: 2013-10-10 18:53
+from: girald---@gmail.com
+to: librebase@grulic.org.ar
+subject:  [LibreBase] Ahora: Entrevista sobre Huayra y LB
+Amigos: En algún punto entre este momento y las 18 hs. van a entrevistar al compañero Leandro Rueda sobre nuestro trabajo con Huayra en el programa Subversiones de Nuestra Radio FM 102.3
+
+Hay streaming por www.cba24n.com.ar
+
+Disculpen por avisar tan sobre la hora pero recién veo la confirmación de que se hace hoy...
+
+Leandro, si nos estás leyendo y podés, confirmanos nomás el horario preciso en el que vas a salir, un abrazo y mucha suerte!!
+
+
+
+-.-.-:-.-.-
+date: 2013-10-11 23:40
+from: ba---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  [LibreBase] Fwd: Últimas vacantes: Curso deaerogeneradores en Córdoba
+Reenvío mensaje del Nico sin el adjunto (la información respectiva está
+contenida en el link de facebook)
+
+-------- Mensaje original --------
+Asunto: Fwd: Últimas vacantes: Curso de aerogeneradores en Córdoba
+Fecha: Sat, 12 Oct 2013 01:18:05 +0200
+De: Nicolás Echániz <nicoechaniz@altermundi.net>
+A: ctp@deestelado.org, Coordinación y difusión de actividades de Cultura
+Libre en Córdoba <librebase@grulic.org.ar>
+
+reenvío por si a alguien le interesa.
+
+-------- Mensaje original --------
+Asunto:     Últimas vacantes: Curso de aerogeneradores en Córdoba
+Fecha:     Fri, 11 Oct 2013 15:07:50 -0300
+De:     Clari Proietti <clariproietti@gmail.com>
+A:     undisclosed-recipients:;
+
+
+
+*Estimados,*
+
+Les acercamos la información del *_Curso teórico-práctico de
+aerogeneradores_*, una nueva modalidad que estamos implementando, con
+más teoría y más accesible económicamente para los estudiantes: con un
+costo de $480.
+
+La fecha será del *_14 al 16 de octubre _**_en la Facultad de Ciencias
+Exactas, Físicas y Naturales de la UNC, Ciudad Universitaria_*.
+
+Les adjuntamos el programa del curso e información sobre inscripción.
+*_Esperamos puedan darle difusión_*. También copiamos el link de
+Facebook con toda la
+información: https://www.facebook.com/events/1422318551316446/
+
+Atentamente,
+
+*Clarisa Proietti*
+
+*Video recomendado: BIOENERGíA: El gigante dormido del agro
+<http://www.lanacion.com.ar/1620491-bioenergia-el-gigante-dormido-del-agro>*
+*Última acción realizada: Proyecto Mendoza
+<http://www.hacercomunidad.org/escribi/articulo/16590>*
+
+*Equipo **500RPM*
+*www.500rpm.org <http://www.500rpm.org>*
+*www.facebook.com/500rpm* <http://www.facebook.com/500rpm>
+
+
+
+
+
+
+
+
+-.-.-:-.-.-
+date: 2013-10-21 17:33
+from: dalo---@grulic.org.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] Reunion de hoy 21/10
+2013/10/21 Marcelo C. Baldi <baldi@grulic.org.ar>:
+> El problema es que ni Sebastián, ni yo podemos ir hoy a la reunión. Si hay
+> algún otro técnico que pueda, por favor, avise.
+
+Yo
+
+-- 
+Dionisio
+
+
+
+-.-.-:-.-.-
+date: 2013-10-21 23:16
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase]
+ #21: Propuesta: Proyectos de éxito con SL (was: Propuesta para la reunion del Lunes 7)
+#21: Propuesta: Proyectos de éxito con SL-----------------------------+----------------------
+      Reporter:  ndavila     |      Owner:  somebody
+          Type:  mejora      |     Status:  new
+      Priority:  menor       |  Milestone:
+     Component:  component1  |    Version:
+    Resolution:              |   Keywords:
+Parent Tickets:              |
+-----------------------------+----------------------
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/21#comment:1>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-10-21 23:26
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  Re: [LibreBase] #6: 20130928 Installfest IES SB. Coordinar
+ Installfest general
+#6: 20130928 Installfest IES SB. Coordinar Installfest general------------------------------+---------------------
+      Reporter:  mbaldi       |      Owner:  dalonso
+          Type:  tarea        |     Status:  closed
+      Priority:  bloquea      |  Milestone:
+     Component:  component1   |    Version:
+    Resolution:  solucionada  |   Keywords:
+Parent Tickets:  3            |
+------------------------------+---------------------
+Changes (by dalonso):
+
+ * status:  accepted => closed
+ * resolution:   => solucionada
+
+
+Comment:
+
+ La asistensia fue aproximadamente de la mitad de los inscriptos.
+
+ La población de netbooks fue bastante variada en generaciones de
+ !ConectarIgualdad, pero se pudo sobrellevar bien gracias a la suficiente
+ asistencia de ayudantes.
+
+ Sólo una de las netbooks no salió andando. Su propietaria acordó ir a una
+ reunión de !LibreBase para terminar el proceso.
+
+ La netbook que se usó originalmente para dar la presentación se bloqueó en
+ una de las reiniciadas necesarias para el proceso de instalación. Para la
+ próxima vez, hay que tener precaución de que la netbook que se use para la
+ presentación tenga disponible un par de reiniciadas sin bloquearse por
+ falta de hermanado. Se solucionó rápidamente con una netbook prestada.
+
+ Hay que pulir el mecanismo de identificación de la partición con el Linux
+ a reemplazar porque en la reiniciada se puede dar vuelta el oren de los
+ dispositivos SATA/USB y eso confunde a los instalandos.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/6#comment:3>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-10-22 00:07
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject: Author: LibreBaseDate: 2013-10-22 00:07 UTCCC: librebaseNew-Topics: Re: [LibreBase] #23: Nuevo mini-installfest para amigos, Re: [LibreBase]
+ #23: Nuevo mini-installfest para amigos antes de fin de año, Re: [LibreBase]
+ [LibreBase]  #23: Nuevo mini-installfest para amigos antes de fin de año
+#23: Nuevo mini-installfest para amigos antes de fin de año------------------------+----------------------------
+ Reporter:  mgiraldes   |           Owner:  mgiraldes
+     Type:  tarea       |          Status:  new
+ Priority:  bloquea     |       Milestone:
+Component:  component1  |         Version:
+ Keywords:              |  Parent Tickets:
+------------------------+----------------------------
+ Tenemos tres nuevos pedidos de migraciones, se evalúa realizar un último
+ mini-installfest para amigos antes de fin de año. Queda pendiente definir
+ fecha y recopilar especificaciones de hardware, etc.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/23>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
+-.-.-:-.-.-
+date: 2013-10-22 20:31
+from: t---@grulic.psi.unc.edu.ar
+to: librebase@grulic.org.ar
+subject:  [LibreBase]  #25: Elaboración de documentación y guías prácticas para usuarios post-install
+#25: Elaboración de documentación y guías prácticas para usuarios post-install------------------------------------------------+--------------------------
+ Reporter:  aalmada                             |           Owner:  aalmada
+     Type:  tarea                               |          Status:  new
+ Priority:  menor                               |       Milestone:
+Component:  component1                          |         Version:
+ Keywords:  Documentación, guías para usuarios  |  Parent Tickets:
+------------------------------------------------+--------------------------
+ Surgió como idea en la reunión del 20131021 recuperar material disponible
+ y no-sistematizado para elaborar guías prácticas que puedan servirles a
+ los usuarios luego de haber asistido al installfest.
+ La idea es aportar más y mejores herramientas que colaboren en la
+ apropiación del SL y en la resolución de incidentes sin tener que retornar
+ al privativo.
+
+-- 
+Ticket URL: <https://200.16.16.187/cgi-bin/librebase/trac.cgi/ticket/25>
+LibreBase <https://200.16.16.187/cgi-bin/librebase/trac.cgi>
+Actividades de Cultura Libre en Córdoba
+
+
+
