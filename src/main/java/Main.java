@@ -15,7 +15,7 @@ public class Main {
 
   public static void main(String[] args) throws Exception {
     // Implemetación
-    System.out.println("Parcial DOS");
+    System.out.println("Parcial 2");
     MailManager mailManager = new MailManager();
     Scanner scanner = new Scanner(System.in);
     int opcion = 1;
