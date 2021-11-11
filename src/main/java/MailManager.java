@@ -380,7 +380,7 @@ public class MailManager {
         }
       }
     }
-
+    System.out.println("a");
     return emails.toArray(new Email[emails.size()]);
   }
 
