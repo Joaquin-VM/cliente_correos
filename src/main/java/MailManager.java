@@ -372,9 +372,7 @@ public class MailManager {
     while (iterador.hasNext()) { //O(n)
       Par par = iterador.next();
       String fechaActual = par.getKey();
-      if ((fechaActual.compareTo(desde) > 0 && fechaActual.compareTo(hasta) < 0)
-          || fechaActual.equals(desde)
-          || fechaActual.equals(hasta)) {
+      if (fechaActual.compareTo(desde) >= 0 && fechaActual.compareTo(hasta) <= 0) {
         AvlTree<Email> arbol = par.getValue();
         ArrayList<Email> listaActual = arbol.inOrderNR(arbol.getRoot());
         for (int i = 0; i < listaActual.size(); ++i) {
