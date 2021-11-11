@@ -258,13 +258,13 @@ public class MailManager {
     String contenido = formatearString(m.getContent());
     String asunto = formatearString(m.getSubject());
 
-    deletePalabra(m, contenido);
+    removePalabras(m, contenido);
 
-    deletePalabra(m, asunto);
+    removePalabras(m, asunto);
 
   }
 
-  private String deletePalabra(Email m, String contenido) {
+  private String removePalabras(Email m, String contenido) {
 
     String str = null;
     int indexEspacio;
