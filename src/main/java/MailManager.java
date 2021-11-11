@@ -135,11 +135,20 @@ public class MailManager {
   private void addTHashStrings(Email m) throws Exception {
     AvlTree<Email> arbolDeEmails;
 
-    String str = null;
     String contenido = formatearString(m.getContent());
     String asunto = formatearString(m.getSubject());
 
+    getPalabras(m, contenido);
+
+    getPalabras(m, asunto);
+
+  }
+
+  private String getPalabras(Email m, String contenido) {
+
+    String str = null;
     int indexEspacio;
+    AvlTree<Email> arbolDeEmails;
 
     while (contenido != null && !contenido.isBlank()) {
       indexEspacio = contenido.indexOf(" ");
@@ -162,29 +171,7 @@ public class MailManager {
       hashPorString.insert(new Par(str, arbolDeEmails));
 
     }
-
-    while (asunto != null && !asunto.isBlank()) {
-      indexEspacio = asunto.indexOf(" ");
-
-      if (indexEspacio != -1) {
-        str = asunto.substring(0, indexEspacio + 1).trim();
-        asunto = asunto.substring(indexEspacio + 1).trim();
-      } else if (indexEspacio == -1 && asunto.length() > 0) {
-        str = asunto.trim();
-        asunto = "";
-      }
-
-      if (hashPorString.contains(new Par(str, null))) {
-        arbolDeEmails = hashPorString.get(new Par(str, null)).getValue();
-      } else {
-        arbolDeEmails = new AvlTree<>();
-      }
-
-      arbolDeEmails.insert(m);
-      hashPorString.insert(new Par(str, arbolDeEmails));
-
-    }
-
+    return str;
   }
 
   /**
@@ -268,13 +255,21 @@ public class MailManager {
    */
   private void deleteTHashStrings(Email m) throws Exception {
 
-    AvlTree<Email> arbolDeEmails;
-
-    String str = null;
     String contenido = formatearString(m.getContent());
     String asunto = formatearString(m.getSubject());
+
+    deletePalabra(m, contenido);
+
+    deletePalabra(m, asunto);
+
+  }
+
+  private String deletePalabra(Email m, String contenido) {
+
+    String str = null;
     int indexEspacio;
 
+    AvlTree<Email> arbolDeEmails;
     while (contenido != null && !contenido.isBlank()) {
       indexEspacio = contenido.indexOf(" ");
 
@@ -297,30 +292,7 @@ public class MailManager {
       }
 
     }
-
-    while (asunto != null && !asunto.isBlank()) {
-      indexEspacio = asunto.indexOf(" ");
-
-      if (indexEspacio != -1) {
-        str = asunto.substring(0, indexEspacio + 1).trim();
-        asunto = asunto.substring(indexEspacio + 1).trim();
-      } else if (indexEspacio == -1 && asunto.length() > 0) {
-        str = asunto.trim();
-        asunto = "";
-      }
-
-      arbolDeEmails = hashPorString.get(new Par(str, null)).getValue();
-
-      arbolDeEmails.remove(m);
-
-      if (arbolDeEmails.isEmpty()) {
-        hashPorString.remove(new Par(str, null));
-      } else {
-        hashPorString.insert(new Par(str, arbolDeEmails));
-      }
-
-    }
-
+    return str;
   }
 
   /**
